@@ -7,10 +7,10 @@ Proposta: Entregar um projeto completo de ETL (Extract, Transform, Load), tendo 
 1) Implementação do processo de ETL;
 2) Utilização da biblioteca PANDAS para o tratamento e transformação dos dados;
 3) Armazenamento da base tratada em uma base de dados estruturada;
-4) Desenvolvimento e publicação de um dashboard interativo utilizando Streamlit.
+4) Desenvolvimento e publicação de um dashboard interativo utilizando STREAMLIT.
 
 \
-Tema do projeto: Análise do dataset acerca do [vício dos estudantes em redes sociais](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships?resource=download).
+Tema do projeto: Análise do dataset escolhido na plataforma Kaggle acerca do [vício dos estudantes em redes sociais](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships?resource=download).
 
 \
 Nomes dos integrantes:
@@ -23,7 +23,7 @@ Nomes dos integrantes:
 - Sarah Evelyn Barros de Oliveira
 
 \
-Objetivo da análise: Analisar e verificar quais são as principais causas e consequências do constante uso das redes sociais na vida dos jovens.
+Contexto e objetivo da análise: Verificar quais são as principais causas e consequências do constante uso das redes sociais na vida dos estudantes entre 16 e 25 anos de diferentes países.
 
 \
 Planejamento das tarefas:
@@ -38,5 +38,22 @@ Planejamento das tarefas:
 \
 Cronograma de desenvolvimento:
 
+| Tarefa | Extração | Transformação | Visualização |
+| :---: | :---: | :---: | :---: |
+| Desc. | Importar a base de dados | Traduzir os dados e remover colunas desnecessárias | Criação do dashboard |
+| Plat./Bibl. | Kaggle | Pandas | Streamlit |
+| Tempo | 1 dia | 20 dias | 15 dias |
+
 \
 Ideia inicial do dashboard:
+
+1) Transformações:
+- Tradução das colunas e dados para o português para uma melhor interpretação e compreensão das informações para análise.
+- Remoção das colunas de ID do estudante, pontuação da saúde mental, status do relacionamento e conflitos envolvendo redes sociais, com o objetivo de facilitar a visualização e enfatizar os elementos importante para nossa análise.
+
+2) Visualizações e métricas:
+- Relação entre idade e horas gastas.
+- Relação entre o uso e o desempenho escolar.
+- Relação entre o uso e horas de sono.
+- Países com o maior número de estudantes dependentes das redes.
+- Redes sociais mais utilizadas.
