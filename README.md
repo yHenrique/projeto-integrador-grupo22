@@ -16,7 +16,7 @@ Tema do projeto: Análise do dataset acerca do [vício dos estudantes em redes s
 Nomes dos integrantes:
 - Andre Luiz Araujo da Silva
 - Henrique Yonamine
-- Lucas Franca
+- Lucas de Oliveira Franca
 - Maria Eduarda Anibal de Souza
 - Mario Eduardo Borges Prado Queiroz
 - Pedro Noronha Dias Chaves
