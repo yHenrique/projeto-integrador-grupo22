@@ -10,7 +10,7 @@ Proposta: Entregar um projeto completo de ETL (Extract, Transform, Load), tendo 
 4) Desenvolvimento e publicação de um dashboard interativo utilizando STREAMLIT.
 
 \
-Tema do projeto: Análise do dataset escolhido na plataforma Kaggle acerca do [vício dos estudantes em redes sociais](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships?resource=download).
+Tema do projeto: Análise do dataset acerca do [vício dos estudantes em redes sociais](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships?resource=download).
 
 \
 Nomes dos integrantes:
