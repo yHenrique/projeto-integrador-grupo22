@@ -30,38 +30,30 @@ Planejamento das tarefas:
 - Criar o repositório no Github e inserir os integrantes como colaboradores [Sarah]
 - Organizar a estrutura inicial do projeto [Henrique]
 - Definir a base de dados [Grupo]
-- Descrever brevemente o contexto e o objetivo da análise []
-- Criar o cronograma de desenvolvimento []
-- Descrever as transformações a serem realizadas []
-- Indicar as visualizações e métricas que serão apresentadas no dashboard []
+- Descrever brevemente o contexto e o objetivo da análise [Grupo]
+- Criar o cronograma de desenvolvimento [Grupo]
+- Descrever as transformações a serem realizadas [Grupo]
+- Indicar as visualizações e métricas que serão apresentadas no dashboard [Grupo]
 
 \
 Cronograma de desenvolvimento:
 
-| Tarefa | Extração | Transformação | Visualização |
-| :---: | :---: | :---: | :---: |
-| Desc. | Importar a base de dados | Traduzir os dados e remover colunas desnecessárias | Criação do dashboard |
-| Plat./Bibl. | Kaggle | Pandas | Streamlit |
-| Tempo | 1 dia | 20 dias | 15 dias |
+| Tarefa | Extração | Transformação | Análise | Visualização |
+| :---: | :---: | :---: | :---: | :---: |
+| Descrição | Importar a base de dados | Traduzir os dados e remover colunas | Identificar padrões e correlações | Criar o dashboard |
+| Plat./Bibl. | Kaggle | Python | Pandas | Streamlit |
+| Tempo | 1 dia | 7 dias | 14 dias | 14 dias |
 
 \
 Ideia inicial do dashboard:
 
 1) Transformações:
 - Tradução das colunas e dados para o português para uma melhor interpretação e compreensão das informações para análise.
-- Remoção das colunas de ID do estudante, pontuação da saúde mental, status do relacionamento e conflitos envolvendo redes sociais, com o objetivo de facilitar a visualização e enfatizar os elementos importante para nossa análise.
+- Remoção das colunas de ID do estudante, pontuação da saúde mental, status do relacionamento e conflitos envolvendo redes sociais, com o objetivo de facilitar a visualização e enfatizar os elementos importantes para nossa análise.
 
 2) Visualizações e métricas:
-- Relação entre idade e horas gastas.
-- Relação entre o uso e o desempenho escolar.
-- Relação entre o uso e horas de sono.
-- Países com o maior número de estudantes dependentes das redes.
-- Redes sociais mais utilizadas.
-
-\
-Possíveis resultados esperados: Com base nas análises propostas, espera-se identificar os seguintes resultados
-- Idêntificar a tendência entre maior tempo de uso diário de redes sociais por faixa etária.
+- Identificar a tendência entre maior tempo de uso diário de redes sociais por faixa etária.
 - Analisar a relação entre o tempo de uso nas redes sociais e o desempenho escolar dos estudantes.
-- Identificar quais países apresentam maior média de uso diário.
-- Identificar possíveis indícios de uso excessivo que possam estar relacionados a impactos negativos na rotina dos estudantes.
-- Analisar se existe uma tendência de aumento no uso de redes sociais conforme determinados perfis de estudantes.
+- Identificar possíveis indícios do uso excessivo que possam estar relacionados a impactos negativos na rotina dos estudantes.
+- Identificar os países que apresentam maior média de uso diário.
+- Verificar a possibilidade de uma tendência de aumento no uso de redes sociais dados determinados perfis de estudantes.
