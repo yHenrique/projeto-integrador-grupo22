@@ -57,3 +57,11 @@ Ideia inicial do dashboard:
 - Relação entre o uso e horas de sono.
 - Países com o maior número de estudantes dependentes das redes.
 - Redes sociais mais utilizadas.
+
+\
+Possíveis resultados esperados: Com base nas análises propostas, espera-se identificar os seguintes resultados
+- Idêntificar a tendência entre maior tempo de uso diário de redes sociais por faixa etária.
+- Analisar a relação entre o tempo de uso nas redes sociais e o desempenho escolar dos estudantes.
+- Identificar quais países apresentam maior média de uso diário.
+- Identificar possíveis indícios de uso excessivo que possam estar relacionados a impactos negativos na rotina dos estudantes.
+- Analisar se existe uma tendência de aumento no uso de redes sociais conforme determinados perfis de estudantes.
