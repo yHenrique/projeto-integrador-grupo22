@@ -23,7 +23,7 @@ Nomes dos integrantes:
 - Sarah Evelyn Barros de Oliveira
 
 \
-Contexto e objetivo da análise: Verificar quais são as principais causas e consequências do constante uso das redes sociais na vida dos estudantes entre 16 e 25 anos de diferentes países.
+Contexto e objetivo da análise: Verificar e analisar o perfil detalhado de estudantes de diferentes nacionalidades, entre 16 e 25 anos de idade, que gastam horas do seu dia nas redes sociais.
 
 \
 Planejamento das tarefas:
@@ -49,7 +49,7 @@ Ideia inicial do dashboard:
 
 1) Transformações:
 - Tradução das colunas e dados para o português para uma melhor interpretação e compreensão das informações para análise.
-- Remoção das colunas de ID do estudante, pontuação da saúde mental, status do relacionamento e conflitos envolvendo redes sociais, com o objetivo de facilitar a visualização e enfatizar os elementos importantes para nossa análise.
+- Remoção das colunas de ID do estudante, status do relacionamento e conflitos envolvendo redes sociais, com o objetivo de facilitar a visualização e enfatizar as colunas importantes para nossas análises e conclusões.
 
 2) Visualizações e métricas:
 - Identificar a tendência entre maior tempo de uso diário de redes sociais por faixa etária.
