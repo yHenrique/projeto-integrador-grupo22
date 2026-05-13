@@ -1,9 +1,10 @@
 import pandas as pd
 # import country_converter as coco
 import deep_translator as dt
+import streamlit as st
 
 # Importando a base de dados
-df = pd.read_csv('data/base_original.csv')
+df = pd.read_csv('../data/base_original.csv')
 
 # Traduzindo os nomes das colunas
 df_tratado = df.rename(columns={'Student_ID':'ID',
@@ -36,7 +37,7 @@ df_tratado['Nível_Acadêmico'] = df_tratado['Nível_Acadêmico'].map(traduzir_n
 df_tratado['País'] = df_tratado['País'].replace({'USA':'United States', 'UK':'United Kingdom', 'UAE':'United Arab Emirates'})
 # for pais in df_tratado['País']:
 #     pais_traduzido = dt.GoogleTranslator(source='en', target='pt').translate(pais)
-#     df_tratado['País'][pais] = pais_traduzido
+#     df_tratado['País'] = df_tratado['País'].replace({pais:pais_traduzido})
 
 # Traduzindo a coluna Afeta_Desempenho_Acadêmico
 traduzir_afeta_desempenho_academico = {'Yes':'Sim',
@@ -49,10 +50,14 @@ traduzir_status_relacao = {'In Relationship':'Em Relacionamento',
                            'Complicated':'Complicado'}
 df_tratado['Status_Relação'] = df_tratado['Status_Relação'].map(traduzir_status_relacao)
 
+df_tratado.drop(columns=['ID', 'Status_Relação', 'Conflitos_Sobre_Redes_Sociais'], inplace=True)
+
 # Criando a base tratada
-df_tratado.to_csv('data/base_tratada.csv', index=False)
+df_tratado.to_csv('../data/base_tratada.csv', index=False)
 
 # Exibindo informações
 # print(df_tratado['Status_Relação'].unique())
 # df_tratado.info()
-# print(df_tratado.head())
+print(df_tratado.head())
+
+# st.write('Ola!')
