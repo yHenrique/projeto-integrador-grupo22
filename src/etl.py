@@ -3,6 +3,7 @@ import pandas as pd
 import deep_translator as dt
 import streamlit as st
 import matplotlib.pyplot as plt
+import plotly.express as px
 
 # Importando a base de dados
 df = pd.read_csv('../data/base_original.csv')
@@ -60,54 +61,53 @@ df_tratado.to_csv('../data/base_tratada.csv', index=False)
 # df_tratado.info()
 # print(df_tratado.head())
 
-# page_bg_img = """
-# <style>
-# [data-testid="stAppViewContainer"] {
-# background-color: black;
-# }
-# </style>
-# """
-
-# st.markdown(page_bg_img, unsafe_allow_html=True)
-
 st.set_page_config(layout='wide')
 
-st.title('Análise do dataset referente ao vício dos estudantes em redes sociais', text_alignment='justify')
+st.title('Análise do dataset referente ao vício dos estudantes em redes sociais', text_alignment='center')
 st.dataframe(df_tratado)
 
 st.header('Identificando a tendência entre maior tempo de uso diário de redes sociais por faixa etária:')
-analise1_col1, analise1_col2 = st.columns([1, 4], border=True)
+analise1_col1, analise1_col2 = st.columns([2, 4], border=True)
 
 with analise1_col1:
-    st.dataframe(df_tratado['Idade'].value_counts().reset_index(name='Quantidade de Estudantes'), hide_index=True)
+    st.subheader('Quantidade de estudantes entrevistados por idade')
+    qtd_por_idade = df_tratado['Idade'].value_counts().reset_index()
+    qtd_por_idade.columns = ['Idade', 'Quantidade']
+    fig = px.pie(qtd_por_idade, values='Quantidade', names='Idade')
+    st.plotly_chart(fig)
 
 with analise1_col2:
-    media_uso_diario_por_idade = df_tratado.groupby('Idade')['Média_Uso_Diário'].mean()
-    st.bar_chart(media_uso_diario_por_idade, x_label='Idade', y_label='Média de Uso Diário')
-    st.write('Conclusão: Adolescentes de 18 e 24 anos são aqueles que mais utilizam as redes sociais, enquanto os de 23 são os que utilizam menos.')
+    st.subheader('Média de uso diário por idade')
+    media_uso_diario_por_idade = df_tratado.groupby(['Idade', 'Gênero'])['Média_Uso_Diário'].mean().reset_index()
+    st.bar_chart(media_uso_diario_por_idade, x='Idade', y='Média_Uso_Diário', color='Gênero', y_label='Média de Uso Diário', stack=False)
+    st.write('Conclusão: Adolescentes de 18 anos tendem a passar mais tempo nas redes sociais, em principal, as garotas, ' \
+    'enquanto que, no geral, aqueles que têm 23 anos são os que menos utilizam.')
 
 st.header('Analisando a relação entre o tempo de uso nas redes sociais e o desempenho escolar dos estudantes:')
-media_uso_diario_afetar_desempenho = df_tratado.groupby('Afeta_Desempenho_Acadêmico')['Média_Uso_Diário'].mean()
-st.bar_chart(media_uso_diario_afetar_desempenho, x_label='Afeta o Desempenho Escolar', y_label='Média de Uso Diário', width=500)
-st.write('Conclusão: Segundo os adolescentes entrevistados, usar as redes sociais até 4 horas por dia não afetam seu desempenho escolar')
+analise2_col1, analise2_col2, analise2_col3 = st.columns([1, 1, 1])
+
+with analise2_col1:
+    media_uso_diario_afetar_desempenho = df_tratado.groupby(['Afeta_Desempenho_Acadêmico', 'Nível_Acadêmico'])['Média_Uso_Diário'].mean().reset_index()
+    st.bar_chart(media_uso_diario_afetar_desempenho, x='Afeta_Desempenho_Acadêmico', y='Média_Uso_Diário', color='Nível_Acadêmico', x_label='Afeta o Desempenho Acadêmico', y_label='Média de Uso Diário', stack=False)
+    st.write('Conclusão: Segundo os adolescentes entrevistados, usar as redes sociais até 4 horas por dia não afetam seu desempenho escolar.')
 
 st.header('Identificando possíveis indícios do uso excessivo que possam estar relacionados a impactos negativos na rotina dos estudantes:')
 
 st.header('Identificando os países que apresentam maior média de uso diário:')
-st.write('Obs: Utilizando apenas os dados de estudantes cujo país aparece mais de uma vez entre os entrevistados.')
 col1, col2 = st.columns([1, 4], border=True)
 
 with col1:
+    st.text('Quantidade de estudantes entrevistados por país')
     contador_pais = df_tratado['País'].value_counts()
-    df_pais_filtrado = df_tratado[df_tratado['País'].map(contador_pais) > 1]
-    st.dataframe(df_pais_filtrado['País'].value_counts().reset_index(name='Quantidade de Estudantes'), height=450, hide_index=True)
-    # st.write('Quantidade de estudantes entrevistados por país.')
+    st.dataframe(contador_pais.reset_index(name='Quantidade'))
 
 with col2:
+    df_pais_filtrado = df_tratado[df_tratado['País'].map(contador_pais) > 1]
     media_uso_diario_pais = df_pais_filtrado.groupby('País')['Média_Uso_Diário'].mean()
     st.bar_chart(media_uso_diario_pais, x_label='País', y_label='Média de Uso Diário (Horas)', height=400)
     st.write('Conclusão: Os Estados Unidos e os Emirados Árabes Unidos são os 2 países com a maior média de uso entre os perfis analisados, com uma média aproximada de 7 horas por dia,' \
     ' enquanto que a Suíça é o país com a menor média diária.')
+    st.write('Obs: Utilizando apenas os dados de estudantes cujo país aparece mais de uma vez entre os entrevistados.')
 
 st.header('Verificando a possibilidade de uma tendência de aumento no uso de redes sociais dados determinados perfis de estudantes:')
 
