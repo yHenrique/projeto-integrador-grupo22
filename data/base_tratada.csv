@@ -1,706 +1,706 @@
 Idade,Gênero,Nível_Acadêmico,País,Média_Uso_Diário,Plataforma_Mais_Utilizada,Afeta_Desempenho_Acadêmico,Horas_Sono,Pontuação_Saúde_Mental,Nível_Vício
 19,Feminino,Graduação,Bangladesh,5.2,Instagram,Sim,6.5,6,8
-22,Masculino,Pós-Graduação,India,2.1,Twitter,Não,7.5,8,3
-20,Feminino,Graduação,United States,6.0,TikTok,Sim,5.0,5,9
-18,Masculino,Ensino Médio,United Kingdom,3.0,YouTube,Não,7.0,7,4
-21,Masculino,Pós-Graduação,Canada,4.5,Facebook,Sim,6.0,6,7
-19,Feminino,Graduação,Australia,7.2,Instagram,Sim,4.5,4,9
-23,Masculino,Pós-Graduação,Germany,1.5,LinkedIn,Não,8.0,9,2
-20,Feminino,Graduação,Brazil,5.8,Snapchat,Sim,6.0,6,8
-18,Masculino,Ensino Médio,Japan,4.0,TikTok,Não,6.5,7,5
-21,Feminino,Pós-Graduação,South Korea,3.3,Instagram,Não,7.0,7,4
-19,Masculino,Graduação,France,4.8,Snapchat,Sim,6.2,5,7
-20,Feminino,Graduação,Spain,5.5,TikTok,Sim,5.8,6,8
-22,Masculino,Pós-Graduação,Italy,2.8,LinkedIn,Não,7.2,8,4
-18,Feminino,Ensino Médio,Mexico,6.5,Instagram,Sim,5.5,5,9
-21,Masculino,Graduação,Russia,3.7,YouTube,Não,6.8,7,5
+22,Masculino,Pós-Graduação,Índia,2.1,Twitter,Não,7.5,8,3
+20,Feminino,Graduação,Estados Unidos,6.0,TikTok,Sim,5.0,5,9
+18,Masculino,Ensino Médio,Reino Unido,3.0,YouTube,Não,7.0,7,4
+21,Masculino,Pós-Graduação,Canadá,4.5,Facebook,Sim,6.0,6,7
+19,Feminino,Graduação,Austrália,7.2,Instagram,Sim,4.5,4,9
+23,Masculino,Pós-Graduação,Alemanha,1.5,LinkedIn,Não,8.0,9,2
+20,Feminino,Graduação,Brasil,5.8,Snapchat,Sim,6.0,6,8
+18,Masculino,Ensino Médio,Japão,4.0,TikTok,Não,6.5,7,5
+21,Feminino,Pós-Graduação,Coreia do Sul,3.3,Instagram,Não,7.0,7,4
+19,Masculino,Graduação,França,4.8,Snapchat,Sim,6.2,5,7
+20,Feminino,Graduação,Espanha,5.5,TikTok,Sim,5.8,6,8
+22,Masculino,Pós-Graduação,Itália,2.8,LinkedIn,Não,7.2,8,4
+18,Feminino,Ensino Médio,México,6.5,Instagram,Sim,5.5,5,9
+21,Masculino,Graduação,Rússia,3.7,YouTube,Não,6.8,7,5
 20,Feminino,Graduação,China,4.2,TikTok,Sim,6.0,6,7
-24,Masculino,Pós-Graduação,Sweden,2.0,LinkedIn,Não,7.8,8,3
-19,Feminino,Ensino Médio,Norway,5.0,Instagram,Sim,5.7,5,8
-21,Masculino,Graduação,Denmark,3.5,Facebook,Não,6.7,7,5
-20,Feminino,Graduação,Netherlands,4.7,Snapchat,Sim,5.9,6,7
-18,Masculino,Ensino Médio,Belgium,5.3,TikTok,Sim,5.5,5,8
-23,Feminino,Pós-Graduação,Switzerland,2.5,LinkedIn,Não,7.3,8,4
-19,Masculino,Graduação,Austria,4.9,Instagram,Sim,5.8,6,7
+24,Masculino,Pós-Graduação,Suécia,2.0,LinkedIn,Não,7.8,8,3
+19,Feminino,Ensino Médio,Noruega,5.0,Instagram,Sim,5.7,5,8
+21,Masculino,Graduação,Dinamarca,3.5,Facebook,Não,6.7,7,5
+20,Feminino,Graduação,Países Baixos,4.7,Snapchat,Sim,5.9,6,7
+18,Masculino,Ensino Médio,Bélgica,5.3,TikTok,Sim,5.5,5,8
+23,Feminino,Pós-Graduação,Suíça,2.5,LinkedIn,Não,7.3,8,4
+19,Masculino,Graduação,Áustria,4.9,Instagram,Sim,5.8,6,7
 20,Feminino,Graduação,Portugal,5.7,TikTok,Sim,5.4,5,8
-22,Masculino,Pós-Graduação,Greece,3.2,Facebook,Não,6.9,7,5
-19,Feminino,Ensino Médio,Ireland,6.1,Instagram,Sim,5.2,5,9
-21,Masculino,Graduação,New Zealand,3.8,YouTube,Não,6.6,7,5
-20,Feminino,Graduação,Singapore,4.4,TikTok,Sim,5.9,6,7
-24,Masculino,Pós-Graduação,Malaysia,2.2,LinkedIn,Não,7.4,8,3
-19,Feminino,Ensino Médio,Thailand,5.9,Instagram,Sim,5.3,5,8
-21,Masculino,Graduação,Vietnam,3.6,Facebook,Não,6.7,7,5
-20,Feminino,Graduação,Philippines,4.8,Snapchat,Sim,5.7,6,7
-18,Masculino,Ensino Médio,Indonesia,5.4,TikTok,Sim,5.4,5,8
+22,Masculino,Pós-Graduação,Grécia,3.2,Facebook,Não,6.9,7,5
+19,Feminino,Ensino Médio,Irlanda,6.1,Instagram,Sim,5.2,5,9
+21,Masculino,Graduação,Nova Zelândia,3.8,YouTube,Não,6.6,7,5
+20,Feminino,Graduação,Singapura,4.4,TikTok,Sim,5.9,6,7
+24,Masculino,Pós-Graduação,Malásia,2.2,LinkedIn,Não,7.4,8,3
+19,Feminino,Ensino Médio,Tailândia,5.9,Instagram,Sim,5.3,5,8
+21,Masculino,Graduação,Vietnã,3.6,Facebook,Não,6.7,7,5
+20,Feminino,Graduação,Filipinas,4.8,Snapchat,Sim,5.7,6,7
+18,Masculino,Ensino Médio,Indonésia,5.4,TikTok,Sim,5.4,5,8
 23,Feminino,Pós-Graduação,Taiwan,2.6,LinkedIn,Não,7.2,8,4
-19,Masculino,Graduação,Hong Kong,4.7,Instagram,Sim,5.8,6,7
-20,Feminino,Graduação,Turkey,5.6,TikTok,Sim,5.5,5,8
+19,Masculino,Graduação,"Hong Kong, RAE da China",4.7,Instagram,Sim,5.8,6,7
+20,Feminino,Graduação,Turquia,5.6,TikTok,Sim,5.5,5,8
 22,Masculino,Pós-Graduação,Israel,3.1,Facebook,Não,6.8,7,5
-19,Feminino,Ensino Médio,United Arab Emirates,6.2,Instagram,Sim,5.1,5,9
-21,Masculino,Graduação,Egypt,3.9,YouTube,Não,6.5,7,6
-20,Feminino,Graduação,Morocco,4.5,TikTok,Sim,5.8,6,7
-24,Masculino,Pós-Graduação,South Africa,2.3,LinkedIn,Não,7.3,8,4
-19,Feminino,Ensino Médio,Nigeria,5.8,Instagram,Sim,5.4,5,8
-21,Masculino,Graduação,Kenya,3.7,Facebook,Não,6.6,7,5
-20,Feminino,Graduação,Ghana,4.6,Snapchat,Sim,5.7,6,7
+19,Feminino,Ensino Médio,Emirados Árabes Unidos,6.2,Instagram,Sim,5.1,5,9
+21,Masculino,Graduação,Egito,3.9,YouTube,Não,6.5,7,6
+20,Feminino,Graduação,Marrocos,4.5,TikTok,Sim,5.8,6,7
+24,Masculino,Pós-Graduação,África do Sul,2.3,LinkedIn,Não,7.3,8,4
+19,Feminino,Ensino Médio,Nigéria,5.8,Instagram,Sim,5.4,5,8
+21,Masculino,Graduação,Quênia,3.7,Facebook,Não,6.6,7,5
+20,Feminino,Graduação,Gana,4.6,Snapchat,Sim,5.7,6,7
 18,Masculino,Ensino Médio,Argentina,5.5,TikTok,Sim,5.3,5,8
 23,Feminino,Pós-Graduação,Chile,2.7,LinkedIn,Não,7.1,8,4
-19,Masculino,Graduação,Colombia,4.8,Instagram,Sim,5.9,6,7
+19,Masculino,Graduação,Colômbia,4.8,Instagram,Sim,5.9,6,7
 20,Feminino,Graduação,Peru,5.5,TikTok,Sim,5.6,5,8
 22,Masculino,Pós-Graduação,Venezuela,3.3,Facebook,Não,6.7,7,5
-19,Feminino,Ensino Médio,Ecuador,6.3,Instagram,Sim,5.2,5,9
-21,Masculino,Graduação,Uruguay,3.8,YouTube,Não,6.4,7,6
-20,Feminino,Graduação,Paraguay,4.7,TikTok,Sim,5.8,6,7
-24,Masculino,Pós-Graduação,Bolivia,2.4,LinkedIn,Não,7.2,8,4
+19,Feminino,Ensino Médio,Equador,6.3,Instagram,Sim,5.2,5,9
+21,Masculino,Graduação,Uruguai,3.8,YouTube,Não,6.4,7,6
+20,Feminino,Graduação,Paraguai,4.7,TikTok,Sim,5.8,6,7
+24,Masculino,Pós-Graduação,Bolívia,2.4,LinkedIn,Não,7.2,8,4
 19,Feminino,Ensino Médio,Costa Rica,5.7,Instagram,Sim,5.5,5,8
-21,Masculino,Graduação,Panama,3.6,Facebook,Não,6.5,7,5
+21,Masculino,Graduação,Panamá,3.6,Facebook,Não,6.5,7,5
 20,Feminino,Graduação,Jamaica,4.9,Snapchat,Sim,5.6,6,7
-18,Masculino,Ensino Médio,Trinidad,5.6,TikTok,Sim,5.2,5,8
+18,Masculino,Ensino Médio,Trinidad e Tobago,5.6,TikTok,Sim,5.2,5,8
 23,Feminino,Pós-Graduação,Bahamas,2.8,LinkedIn,Não,7.0,8,4
-19,Masculino,Graduação,Iceland,4.6,Instagram,Sim,5.9,6,7
-20,Feminino,Graduação,Finland,5.4,TikTok,Sim,5.7,5,8
-22,Masculino,Pós-Graduação,Poland,3.1,Facebook,Não,7.1,7,5
-19,Feminino,Graduação,Romania,5.6,Instagram,Sim,5.6,5,8
-20,Masculino,Graduação,Hungary,4.2,TikTok,Sim,6.0,6,7
-18,Feminino,Ensino Médio,Czech Republic,6.1,Snapchat,Sim,5.2,4,9
-23,Masculino,Pós-Graduação,Slovakia,2.3,LinkedIn,Não,7.4,8,3
-21,Feminino,Graduação,Croatia,4.8,Instagram,Sim,5.8,6,7
-20,Masculino,Graduação,Serbia,3.9,YouTube,Não,6.5,7,6
-19,Feminino,Ensino Médio,Slovenia,5.7,TikTok,Sim,5.4,5,8
-22,Masculino,Pós-Graduação,Bulgaria,2.8,LinkedIn,Não,7.2,8,4
-20,Feminino,Graduação,Estonia,4.5,Instagram,Sim,5.9,6,7
-18,Masculino,Ensino Médio,Latvia,5.4,Snapchat,Sim,5.5,5,8
-21,Feminino,Pós-Graduação,Lithuania,3.2,Facebook,Não,6.8,7,5
-19,Masculino,Graduação,Ukraine,4.9,TikTok,Sim,5.7,6,7
-20,Feminino,Graduação,Moldova,5.8,Instagram,Sim,5.3,5,8
-23,Masculino,Pós-Graduação,Belarus,2.5,LinkedIn,Não,7.3,8,4
-21,Feminino,Graduação,Kazakhstan,4.6,Snapchat,Sim,5.8,6,7
-19,Masculino,Ensino Médio,Uzbekistan,5.5,TikTok,Sim,5.4,5,8
-22,Feminino,Pós-Graduação,Kyrgyzstan,2.9,Facebook,Não,7.0,7,5
-20,Masculino,Graduação,Tajikistan,4.7,YouTube,Sim,5.9,6,7
-18,Feminino,Ensino Médio,Armenia,5.9,Instagram,Sim,5.2,5,9
-21,Masculino,Pós-Graduação,Georgia,3.0,LinkedIn,Não,7.1,8,4
-19,Feminino,Graduação,Azerbaijan,4.8,TikTok,Sim,5.7,6,7
-20,Masculino,Graduação,Cyprus,3.8,Facebook,Não,6.6,7,6
+19,Masculino,Graduação,Islândia,4.6,Instagram,Sim,5.9,6,7
+20,Feminino,Graduação,Finlândia,5.4,TikTok,Sim,5.7,5,8
+22,Masculino,Pós-Graduação,Polônia,3.1,Facebook,Não,7.1,7,5
+19,Feminino,Graduação,Romênia,5.6,Instagram,Sim,5.6,5,8
+20,Masculino,Graduação,Hungria,4.2,TikTok,Sim,6.0,6,7
+18,Feminino,Ensino Médio,Tchéquia,6.1,Snapchat,Sim,5.2,4,9
+23,Masculino,Pós-Graduação,Eslováquia,2.3,LinkedIn,Não,7.4,8,3
+21,Feminino,Graduação,Croácia,4.8,Instagram,Sim,5.8,6,7
+20,Masculino,Graduação,Sérvia,3.9,YouTube,Não,6.5,7,6
+19,Feminino,Ensino Médio,Eslovênia,5.7,TikTok,Sim,5.4,5,8
+22,Masculino,Pós-Graduação,Bulgária,2.8,LinkedIn,Não,7.2,8,4
+20,Feminino,Graduação,Estônia,4.5,Instagram,Sim,5.9,6,7
+18,Masculino,Ensino Médio,Letônia,5.4,Snapchat,Sim,5.5,5,8
+21,Feminino,Pós-Graduação,Lituânia,3.2,Facebook,Não,6.8,7,5
+19,Masculino,Graduação,Ucrânia,4.9,TikTok,Sim,5.7,6,7
+20,Feminino,Graduação,Moldávia,5.8,Instagram,Sim,5.3,5,8
+23,Masculino,Pós-Graduação,Bielorrússia,2.5,LinkedIn,Não,7.3,8,4
+21,Feminino,Graduação,Cazaquistão,4.6,Snapchat,Sim,5.8,6,7
+19,Masculino,Ensino Médio,Uzbequistão,5.5,TikTok,Sim,5.4,5,8
+22,Feminino,Pós-Graduação,Quirguistão,2.9,Facebook,Não,7.0,7,5
+20,Masculino,Graduação,Tadjiquistão,4.7,YouTube,Sim,5.9,6,7
+18,Feminino,Ensino Médio,Armênia,5.9,Instagram,Sim,5.2,5,9
+21,Masculino,Pós-Graduação,Geórgia,3.0,LinkedIn,Não,7.1,8,4
+19,Feminino,Graduação,Azerbaijão,4.8,TikTok,Sim,5.7,6,7
+20,Masculino,Graduação,Chipre,3.8,Facebook,Não,6.6,7,6
 22,Feminino,Pós-Graduação,Malta,2.7,LinkedIn,Não,7.2,8,4
-18,Masculino,Ensino Médio,Luxembourg,5.6,Snapchat,Sim,5.3,5,8
-21,Feminino,Graduação,Monaco,4.5,Instagram,Sim,5.8,6,7
+18,Masculino,Ensino Médio,Luxemburgo,5.6,Snapchat,Sim,5.3,5,8
+21,Feminino,Graduação,Mônaco,4.5,Instagram,Sim,5.8,6,7
 19,Masculino,Ensino Médio,Andorra,5.3,TikTok,Sim,5.5,5,8
 23,Feminino,Pós-Graduação,San Marino,2.6,LinkedIn,Não,7.3,8,4
-20,Masculino,Graduação,Vatican City,4.4,YouTube,Sim,6.0,6,7
+20,Masculino,Graduação,Cidade do Vaticano,4.4,YouTube,Sim,6.0,6,7
 18,Feminino,Ensino Médio,Liechtenstein,5.8,Instagram,Sim,5.2,5,9
 22,Masculino,Pós-Graduação,Montenegro,2.9,Facebook,Não,7.0,7,5
-19,Feminino,Graduação,Albania,4.7,TikTok,Sim,5.8,6,7
-21,Masculino,Graduação,North Macedonia,3.7,Snapchat,Não,6.5,7,6
+19,Feminino,Graduação,Albânia,4.7,TikTok,Sim,5.8,6,7
+21,Masculino,Graduação,Macedônia do Norte,3.7,Snapchat,Não,6.5,7,6
 20,Feminino,Ensino Médio,Kosovo,5.5,Instagram,Sim,5.4,5,8
-23,Masculino,Pós-Graduação,Bosnia,2.4,LinkedIn,Não,7.4,8,4
-19,Feminino,Graduação,Qatar,4.9,TikTok,Sim,5.7,6,7
+23,Masculino,Pós-Graduação,Bósnia e Herzegovina,2.4,LinkedIn,Não,7.4,8,4
+19,Feminino,Graduação,Catar,4.9,TikTok,Sim,5.7,6,7
 18,Masculino,Ensino Médio,Kuwait,5.7,Snapchat,Sim,5.3,5,8
-22,Feminino,Pós-Graduação,Bahrain,2.8,LinkedIn,Não,7.1,8,4
-20,Masculino,Graduação,Oman,4.6,Instagram,Sim,5.9,6,7
-21,Feminino,Graduação,Jordan,5.4,TikTok,Sim,5.5,5,8
-19,Masculino,Ensino Médio,Lebanon,5.8,YouTube,Sim,5.2,5,9
-23,Feminino,Pós-Graduação,Iraq,2.5,LinkedIn,Não,7.3,8,4
-20,Masculino,Graduação,Yemen,4.7,Facebook,Sim,5.8,6,7
-18,Feminino,Ensino Médio,Syria,5.6,Instagram,Sim,5.4,5,8
-22,Masculino,Pós-Graduação,Afghanistan,2.9,LinkedIn,Não,7.0,7,5
-19,Feminino,Graduação,Pakistan,4.8,TikTok,Sim,5.7,6,7
+22,Feminino,Pós-Graduação,Barein,2.8,LinkedIn,Não,7.1,8,4
+20,Masculino,Graduação,Omã,4.6,Instagram,Sim,5.9,6,7
+21,Feminino,Graduação,Jordânia,5.4,TikTok,Sim,5.5,5,8
+19,Masculino,Ensino Médio,Líbano,5.8,YouTube,Sim,5.2,5,9
+23,Feminino,Pós-Graduação,Iraque,2.5,LinkedIn,Não,7.3,8,4
+20,Masculino,Graduação,Iêmen,4.7,Facebook,Sim,5.8,6,7
+18,Feminino,Ensino Médio,Síria,5.6,Instagram,Sim,5.4,5,8
+22,Masculino,Pós-Graduação,Afeganistão,2.9,LinkedIn,Não,7.0,7,5
+19,Feminino,Graduação,Paquistão,4.8,TikTok,Sim,5.7,6,7
 21,Masculino,Graduação,Nepal,3.8,YouTube,Não,6.6,7,6
-20,Feminino,Ensino Médio,Bhutan,5.5,Snapchat,Sim,5.5,5,8
+20,Feminino,Ensino Médio,Butão,5.5,Snapchat,Sim,5.5,5,8
 23,Masculino,Pós-Graduação,Sri Lanka,2.6,LinkedIn,Não,7.2,8,4
-19,Feminino,Graduação,Maldives,4.9,Instagram,Sim,5.8,6,7
+19,Feminino,Graduação,Maldivas,4.9,Instagram,Sim,5.8,6,7
 20,Masculino,Graduação,Bangladesh,6.1,Instagram,Sim,6.2,5,8
-21,Feminino,Graduação,India,5.8,TikTok,Sim,5.9,6,7
+21,Feminino,Graduação,Índia,5.8,TikTok,Sim,5.9,6,7
 19,Masculino,Graduação,Nepal,4.9,Facebook,Não,7.1,7,5
-22,Feminino,Pós-Graduação,Pakistan,5.5,Instagram,Sim,6.0,5,8
+22,Feminino,Pós-Graduação,Paquistão,5.5,Instagram,Sim,6.0,5,8
 20,Masculino,Graduação,Sri Lanka,5.2,TikTok,Sim,6.3,6,7
-19,Feminino,Graduação,Maldives,4.8,Instagram,Não,7.2,8,5
+19,Feminino,Graduação,Maldivas,4.8,Instagram,Não,7.2,8,5
 21,Masculino,Pós-Graduação,Bangladesh,6.0,Facebook,Sim,5.8,5,8
-20,Feminino,Graduação,India,5.7,Instagram,Sim,6.1,6,7
+20,Feminino,Graduação,Índia,5.7,Instagram,Sim,6.1,6,7
 22,Masculino,Pós-Graduação,Nepal,4.7,TikTok,Não,7.3,7,5
-19,Feminino,Graduação,Pakistan,5.4,Instagram,Sim,6.2,5,8
+19,Feminino,Graduação,Paquistão,5.4,Instagram,Sim,6.2,5,8
 20,Masculino,Graduação,Sri Lanka,5.9,Facebook,Sim,5.9,6,7
-21,Feminino,Pós-Graduação,Maldives,4.6,Instagram,Não,7.4,8,5
+21,Feminino,Pós-Graduação,Maldivas,4.6,Instagram,Não,7.4,8,5
 19,Masculino,Graduação,Bangladesh,5.3,TikTok,Sim,6.3,5,8
-22,Feminino,Pós-Graduação,India,5.8,Instagram,Sim,5.8,6,7
+22,Feminino,Pós-Graduação,Índia,5.8,Instagram,Sim,5.8,6,7
 20,Masculino,Graduação,Nepal,4.5,Facebook,Não,7.5,7,5
-21,Feminino,Pós-Graduação,Pakistan,5.2,Instagram,Sim,6.4,5,8
+21,Feminino,Pós-Graduação,Paquistão,5.2,Instagram,Sim,6.4,5,8
 19,Masculino,Graduação,Sri Lanka,5.7,TikTok,Sim,5.7,6,7
-20,Feminino,Graduação,Maldives,4.4,Instagram,Não,7.6,8,5
+20,Feminino,Graduação,Maldivas,4.4,Instagram,Não,7.6,8,5
 22,Masculino,Pós-Graduação,Bangladesh,5.1,Facebook,Sim,6.5,5,8
-21,Feminino,Pós-Graduação,India,5.6,Instagram,Sim,5.6,6,7
+21,Feminino,Pós-Graduação,Índia,5.6,Instagram,Sim,5.6,6,7
 19,Masculino,Graduação,Nepal,4.3,TikTok,Não,7.7,7,5
-20,Feminino,Graduação,Pakistan,5.0,Instagram,Sim,6.6,5,8
+20,Feminino,Graduação,Paquistão,5.0,Instagram,Sim,6.6,5,8
 22,Masculino,Pós-Graduação,Sri Lanka,5.5,Facebook,Sim,5.5,6,7
-21,Feminino,Pós-Graduação,Maldives,4.2,Instagram,Não,7.8,8,5
+21,Feminino,Pós-Graduação,Maldivas,4.2,Instagram,Não,7.8,8,5
 19,Masculino,Graduação,Bangladesh,4.9,TikTok,Sim,6.7,5,8
-20,Feminino,Graduação,India,5.4,Instagram,Sim,5.4,6,7
+20,Feminino,Graduação,Índia,5.4,Instagram,Sim,5.4,6,7
 22,Masculino,Pós-Graduação,Nepal,4.1,Facebook,Não,7.9,7,5
-21,Feminino,Pós-Graduação,Pakistan,4.8,Instagram,Sim,6.8,5,8
+21,Feminino,Pós-Graduação,Paquistão,4.8,Instagram,Sim,6.8,5,8
 19,Masculino,Graduação,Sri Lanka,5.3,TikTok,Sim,5.3,6,7
-20,Feminino,Graduação,Maldives,4.0,Instagram,Não,8.0,8,5
+20,Feminino,Graduação,Maldivas,4.0,Instagram,Não,8.0,8,5
 22,Masculino,Pós-Graduação,Bangladesh,4.7,Facebook,Sim,6.9,5,8
-21,Feminino,Pós-Graduação,India,5.2,Instagram,Sim,5.2,6,7
+21,Feminino,Pós-Graduação,Índia,5.2,Instagram,Sim,5.2,6,7
 19,Masculino,Graduação,Nepal,3.9,TikTok,Não,8.1,7,5
-20,Feminino,Graduação,Pakistan,4.6,Instagram,Sim,7.0,5,8
+20,Feminino,Graduação,Paquistão,4.6,Instagram,Sim,7.0,5,8
 22,Masculino,Pós-Graduação,Sri Lanka,5.1,Facebook,Sim,5.1,6,7
-21,Feminino,Pós-Graduação,Maldives,3.8,Instagram,Não,8.2,8,5
+21,Feminino,Pós-Graduação,Maldivas,3.8,Instagram,Não,8.2,8,5
 19,Masculino,Graduação,Bangladesh,4.5,TikTok,Sim,7.1,5,8
-20,Feminino,Graduação,India,5.0,Instagram,Sim,5.0,6,7
+20,Feminino,Graduação,Índia,5.0,Instagram,Sim,5.0,6,7
 22,Masculino,Pós-Graduação,Nepal,3.7,Facebook,Não,8.3,7,5
-21,Feminino,Pós-Graduação,Pakistan,4.4,Instagram,Sim,7.2,5,8
+21,Feminino,Pós-Graduação,Paquistão,4.4,Instagram,Sim,7.2,5,8
 19,Masculino,Graduação,Sri Lanka,4.9,TikTok,Sim,4.9,6,7
-20,Feminino,Graduação,Maldives,3.6,Instagram,Não,8.4,8,5
+20,Feminino,Graduação,Maldivas,3.6,Instagram,Não,8.4,8,5
 22,Masculino,Pós-Graduação,Bangladesh,4.3,Facebook,Sim,7.3,5,8
-21,Feminino,Pós-Graduação,India,4.8,Instagram,Sim,4.8,6,7
+21,Feminino,Pós-Graduação,Índia,4.8,Instagram,Sim,4.8,6,7
 19,Masculino,Graduação,Nepal,3.5,TikTok,Não,8.5,7,5
-20,Feminino,Graduação,Pakistan,4.2,Instagram,Sim,7.4,5,8
+20,Feminino,Graduação,Paquistão,4.2,Instagram,Sim,7.4,5,8
 22,Masculino,Pós-Graduação,Sri Lanka,4.7,Facebook,Sim,4.7,6,7
-21,Feminino,Pós-Graduação,Maldives,3.4,Instagram,Não,8.6,8,5
+21,Feminino,Pós-Graduação,Maldivas,3.4,Instagram,Não,8.6,8,5
 19,Masculino,Graduação,Bangladesh,4.1,TikTok,Sim,7.5,5,8
-20,Feminino,Graduação,India,4.6,Instagram,Sim,4.6,6,7
+20,Feminino,Graduação,Índia,4.6,Instagram,Sim,4.6,6,7
 19,Feminino,Graduação,Bangladesh,5.3,Instagram,Sim,6.1,5,7
-21,Masculino,Pós-Graduação,India,4.8,Facebook,Não,7.2,7,6
+21,Masculino,Pós-Graduação,Índia,4.8,Facebook,Não,7.2,7,6
 20,Feminino,Graduação,Nepal,5.5,TikTok,Sim,5.9,6,8
-22,Masculino,Pós-Graduação,Pakistan,4.7,Instagram,Sim,6.3,5,7
+22,Masculino,Pós-Graduação,Paquistão,4.7,Instagram,Sim,6.3,5,7
 19,Feminino,Graduação,Sri Lanka,5.1,Facebook,Não,7.0,7,5
-21,Masculino,Pós-Graduação,Maldives,5.4,TikTok,Sim,6.0,6,8
+21,Masculino,Pós-Graduação,Maldivas,5.4,TikTok,Sim,6.0,6,8
 20,Feminino,Graduação,Bangladesh,4.9,Instagram,Sim,6.4,5,7
-22,Masculino,Pós-Graduação,India,5.2,Facebook,Não,7.1,7,6
+22,Masculino,Pós-Graduação,Índia,5.2,Facebook,Não,7.1,7,6
 19,Feminino,Graduação,Nepal,5.6,TikTok,Sim,5.8,6,8
-21,Masculino,Pós-Graduação,Pakistan,4.6,Instagram,Sim,6.5,5,7
+21,Masculino,Pós-Graduação,Paquistão,4.6,Instagram,Sim,6.5,5,7
 20,Feminino,Graduação,Sri Lanka,5.0,Facebook,Não,7.3,7,5
-22,Masculino,Pós-Graduação,Maldives,5.3,TikTok,Sim,5.7,6,8
+22,Masculino,Pós-Graduação,Maldivas,5.3,TikTok,Sim,5.7,6,8
 19,Feminino,Graduação,Bangladesh,4.8,Instagram,Sim,6.6,5,7
-21,Masculino,Pós-Graduação,India,5.1,Facebook,Não,7.4,7,6
+21,Masculino,Pós-Graduação,Índia,5.1,Facebook,Não,7.4,7,6
 20,Feminino,Graduação,Nepal,5.7,TikTok,Sim,5.6,6,8
-22,Masculino,Pós-Graduação,Pakistan,4.5,Instagram,Sim,6.7,5,7
+22,Masculino,Pós-Graduação,Paquistão,4.5,Instagram,Sim,6.7,5,7
 19,Feminino,Graduação,Sri Lanka,4.9,Facebook,Não,7.5,7,5
-21,Masculino,Pós-Graduação,Maldives,5.2,TikTok,Sim,5.5,6,8
+21,Masculino,Pós-Graduação,Maldivas,5.2,TikTok,Sim,5.5,6,8
 20,Feminino,Graduação,Bangladesh,4.7,Instagram,Sim,6.8,5,7
-22,Masculino,Pós-Graduação,India,5.0,Facebook,Não,7.6,7,6
+22,Masculino,Pós-Graduação,Índia,5.0,Facebook,Não,7.6,7,6
 19,Feminino,Graduação,Nepal,5.8,TikTok,Sim,5.4,6,8
-21,Masculino,Pós-Graduação,Pakistan,4.4,Instagram,Sim,6.9,5,7
+21,Masculino,Pós-Graduação,Paquistão,4.4,Instagram,Sim,6.9,5,7
 20,Feminino,Graduação,Sri Lanka,4.8,Facebook,Não,7.7,7,5
-22,Masculino,Pós-Graduação,Maldives,5.1,TikTok,Sim,5.3,6,8
+22,Masculino,Pós-Graduação,Maldivas,5.1,TikTok,Sim,5.3,6,8
 19,Feminino,Graduação,Bangladesh,4.6,Instagram,Sim,7.0,5,7
-21,Masculino,Pós-Graduação,India,4.9,Facebook,Não,7.8,7,6
+21,Masculino,Pós-Graduação,Índia,4.9,Facebook,Não,7.8,7,6
 20,Feminino,Graduação,Nepal,5.9,TikTok,Sim,5.2,6,8
-22,Masculino,Pós-Graduação,Pakistan,4.3,Instagram,Sim,7.1,5,7
+22,Masculino,Pós-Graduação,Paquistão,4.3,Instagram,Sim,7.1,5,7
 19,Feminino,Graduação,Sri Lanka,4.7,Facebook,Não,7.9,7,5
-21,Masculino,Pós-Graduação,Maldives,5.0,TikTok,Sim,5.1,6,8
+21,Masculino,Pós-Graduação,Maldivas,5.0,TikTok,Sim,5.1,6,8
 20,Feminino,Graduação,Bangladesh,4.5,Instagram,Sim,7.2,5,7
-22,Masculino,Pós-Graduação,India,4.8,Facebook,Não,8.0,7,6
+22,Masculino,Pós-Graduação,Índia,4.8,Facebook,Não,8.0,7,6
 19,Feminino,Graduação,Nepal,6.0,TikTok,Sim,5.0,6,8
-21,Masculino,Pós-Graduação,Pakistan,4.2,Instagram,Sim,7.3,5,7
+21,Masculino,Pós-Graduação,Paquistão,4.2,Instagram,Sim,7.3,5,7
 20,Feminino,Graduação,Sri Lanka,4.6,Facebook,Não,8.1,7,5
-22,Masculino,Pós-Graduação,Maldives,4.9,TikTok,Sim,4.9,6,8
+22,Masculino,Pós-Graduação,Maldivas,4.9,TikTok,Sim,4.9,6,8
 19,Feminino,Graduação,Bangladesh,4.4,Instagram,Sim,7.4,5,7
-21,Masculino,Pós-Graduação,India,4.7,Facebook,Não,8.2,7,6
+21,Masculino,Pós-Graduação,Índia,4.7,Facebook,Não,8.2,7,6
 20,Feminino,Graduação,Nepal,6.1,TikTok,Sim,4.8,6,8
-22,Masculino,Pós-Graduação,Pakistan,4.1,Instagram,Sim,7.5,5,7
+22,Masculino,Pós-Graduação,Paquistão,4.1,Instagram,Sim,7.5,5,7
 19,Feminino,Graduação,Sri Lanka,4.5,Facebook,Não,8.3,7,5
-21,Masculino,Pós-Graduação,Maldives,4.8,TikTok,Sim,4.7,6,8
+21,Masculino,Pós-Graduação,Maldivas,4.8,TikTok,Sim,4.7,6,8
 20,Feminino,Graduação,Bangladesh,4.3,Instagram,Sim,7.6,5,7
-22,Masculino,Pós-Graduação,India,4.6,Facebook,Não,8.4,7,6
+22,Masculino,Pós-Graduação,Índia,4.6,Facebook,Não,8.4,7,6
 19,Feminino,Graduação,Nepal,6.2,TikTok,Sim,4.6,6,8
-21,Masculino,Pós-Graduação,Pakistan,4.0,Instagram,Sim,7.7,5,7
+21,Masculino,Pós-Graduação,Paquistão,4.0,Instagram,Sim,7.7,5,7
 20,Feminino,Graduação,Sri Lanka,4.4,Facebook,Não,8.5,7,5
-22,Masculino,Pós-Graduação,Maldives,4.7,TikTok,Sim,4.5,6,8
+22,Masculino,Pós-Graduação,Maldivas,4.7,TikTok,Sim,4.5,6,8
 19,Feminino,Graduação,Bangladesh,4.2,Instagram,Sim,7.8,5,7
-21,Masculino,Pós-Graduação,India,4.5,Facebook,Não,8.6,7,6
+21,Masculino,Pós-Graduação,Índia,4.5,Facebook,Não,8.6,7,6
 20,Feminino,Graduação,Nepal,6.3,TikTok,Sim,4.4,6,8
-22,Masculino,Pós-Graduação,Pakistan,3.9,Instagram,Sim,7.9,5,7
+22,Masculino,Pós-Graduação,Paquistão,3.9,Instagram,Sim,7.9,5,7
 19,Feminino,Graduação,Sri Lanka,4.3,Facebook,Não,8.7,7,5
-21,Masculino,Pós-Graduação,Maldives,4.6,TikTok,Sim,4.3,6,8
+21,Masculino,Pós-Graduação,Maldivas,4.6,TikTok,Sim,4.3,6,8
 20,Feminino,Graduação,Bangladesh,4.1,Instagram,Sim,8.0,5,7
-22,Masculino,Pós-Graduação,India,4.4,Facebook,Não,8.8,7,6
+22,Masculino,Pós-Graduação,Índia,4.4,Facebook,Não,8.8,7,6
 19,Feminino,Graduação,Nepal,6.4,TikTok,Sim,4.2,6,8
-21,Masculino,Pós-Graduação,Pakistan,3.8,Instagram,Sim,8.1,5,7
+21,Masculino,Pós-Graduação,Paquistão,3.8,Instagram,Sim,8.1,5,7
 20,Feminino,Graduação,Sri Lanka,4.2,Facebook,Não,8.9,7,5
-22,Masculino,Pós-Graduação,Maldives,4.5,TikTok,Sim,4.1,6,8
-19,Feminino,Graduação,United States,6.5,Instagram,Sim,6.0,5,9
-21,Masculino,Pós-Graduação,United Kingdom,5.8,TikTok,Sim,6.5,6,7
-20,Feminino,Graduação,Australia,4.5,Instagram,Não,7.5,8,5
-22,Masculino,Pós-Graduação,Germany,4.2,Facebook,Não,7.8,7,4
-19,Feminino,Graduação,Japan,3.8,LINE,Não,7.9,8,3
-21,Masculino,Pós-Graduação,Italy,5.5,Instagram,Sim,6.8,6,7
-20,Feminino,Graduação,South Korea,5.2,KakaoTalk,Sim,6.5,6,6
-22,Masculino,Pós-Graduação,Russia,4.8,VKontakte,Não,7.2,7,5
-19,Feminino,Graduação,United States,7.0,TikTok,Sim,5.8,4,9
-21,Masculino,Pós-Graduação,United Kingdom,5.5,Instagram,Sim,6.7,6,7
-20,Feminino,Graduação,Australia,4.7,Facebook,Não,7.4,7,5
-22,Masculino,Pós-Graduação,Germany,4.0,Instagram,Não,7.9,8,4
-19,Feminino,Graduação,Japan,3.5,LINE,Não,8.0,8,3
-21,Masculino,Pós-Graduação,Italy,5.7,TikTok,Sim,6.5,5,8
-20,Feminino,Graduação,South Korea,5.0,KakaoTalk,Sim,6.8,6,6
-22,Masculino,Pós-Graduação,Russia,4.5,VKontakte,Não,7.4,7,5
-19,Feminino,Graduação,United States,6.8,Instagram,Sim,5.9,4,9
-21,Masculino,Pós-Graduação,United Kingdom,5.6,Facebook,Sim,6.6,6,7
-20,Feminino,Graduação,Australia,4.6,Instagram,Não,7.3,7,5
-22,Masculino,Pós-Graduação,Germany,4.1,Facebook,Não,7.7,8,4
-19,Feminino,Graduação,Japan,3.7,LINE,Não,7.8,8,3
-21,Masculino,Pós-Graduação,Italy,5.4,Instagram,Sim,6.7,5,7
-20,Feminino,Graduação,South Korea,5.1,KakaoTalk,Sim,6.6,6,6
-22,Masculino,Pós-Graduação,Russia,4.7,VKontakte,Não,7.3,7,5
-19,Feminino,Graduação,United States,6.9,TikTok,Sim,5.7,4,9
-21,Masculino,Pós-Graduação,United Kingdom,5.7,Instagram,Sim,6.4,6,7
-20,Feminino,Graduação,Australia,4.8,Facebook,Não,7.2,7,5
-22,Masculino,Pós-Graduação,Germany,3.9,Instagram,Não,7.8,8,4
-19,Feminino,Graduação,Japan,3.6,LINE,Não,8.1,8,3
-21,Masculino,Pós-Graduação,Italy,5.6,TikTok,Sim,6.6,5,8
-20,Feminino,Graduação,South Korea,4.9,KakaoTalk,Sim,6.9,6,6
-22,Masculino,Pós-Graduação,Russia,4.6,VKontakte,Não,7.5,7,5
-19,Feminino,Graduação,United States,6.7,Instagram,Sim,5.8,4,9
-21,Masculino,Pós-Graduação,United Kingdom,5.4,Facebook,Sim,6.5,6,7
-20,Feminino,Graduação,Australia,4.4,Instagram,Não,7.4,7,5
-22,Masculino,Pós-Graduação,Germany,4.0,Facebook,Não,7.6,8,4
-19,Feminino,Graduação,Japan,3.4,LINE,Não,8.2,8,3
-21,Masculino,Pós-Graduação,Italy,5.3,Instagram,Sim,6.8,5,7
-20,Feminino,Graduação,South Korea,5.0,KakaoTalk,Sim,6.7,6,6
-22,Masculino,Pós-Graduação,Russia,4.4,VKontakte,Não,7.6,7,5
-19,Feminino,Graduação,United States,6.6,TikTok,Sim,5.6,4,9
-21,Masculino,Pós-Graduação,United Kingdom,5.3,Instagram,Sim,6.3,6,7
-20,Feminino,Graduação,Australia,4.3,Facebook,Não,7.5,7,5
-22,Masculino,Pós-Graduação,Germany,3.8,Instagram,Não,7.7,8,4
-19,Feminino,Graduação,Japan,3.3,LINE,Não,8.3,8,3
-21,Masculino,Pós-Graduação,Italy,5.2,TikTok,Sim,6.9,5,8
-20,Feminino,Graduação,South Korea,4.8,KakaoTalk,Sim,7.0,6,6
-22,Masculino,Pós-Graduação,Russia,4.3,VKontakte,Não,7.7,7,5
-19,Feminino,Graduação,United States,6.4,Instagram,Sim,5.7,4,9
-21,Masculino,Pós-Graduação,United Kingdom,5.2,Facebook,Sim,6.4,6,7
-20,Feminino,Graduação,Australia,4.5,Instagram,Não,7.3,7,5
-22,Masculino,Pós-Graduação,Germany,3.7,Facebook,Não,7.8,8,4
-19,Feminino,Graduação,Japan,3.2,LINE,Não,8.4,8,3
-21,Masculino,Pós-Graduação,Italy,5.4,Instagram,Sim,6.7,5,7
-20,Feminino,Graduação,South Korea,4.7,KakaoTalk,Sim,7.1,6,6
-22,Masculino,Pós-Graduação,Russia,4.2,VKontakte,Não,7.8,7,5
-19,Feminino,Graduação,United States,6.6,TikTok,Sim,5.5,4,9
-21,Masculino,Pós-Graduação,United Kingdom,5.1,Instagram,Sim,6.5,6,7
-20,Feminino,Graduação,Australia,4.4,Facebook,Não,7.4,7,5
-22,Masculino,Pós-Graduação,Germany,3.6,Instagram,Não,7.9,8,4
-19,Feminino,Graduação,Japan,3.1,LINE,Não,8.5,8,3
-21,Masculino,Pós-Graduação,Italy,5.3,TikTok,Sim,6.8,5,8
-20,Feminino,Graduação,South Korea,4.6,KakaoTalk,Sim,7.2,6,6
-22,Masculino,Pós-Graduação,Russia,4.1,VKontakte,Não,7.9,7,5
-19,Feminino,Graduação,United States,6.7,Instagram,Sim,5.4,4,9
-21,Masculino,Pós-Graduação,United Kingdom,5.0,Facebook,Sim,6.6,6,7
-20,Feminino,Graduação,Australia,4.3,Instagram,Não,7.5,7,5
-22,Masculino,Pós-Graduação,Germany,3.5,Facebook,Não,8.0,8,4
-19,Feminino,Graduação,Japan,3.0,LINE,Não,8.6,8,3
-21,Masculino,Pós-Graduação,Italy,5.2,Instagram,Sim,6.9,5,7
-20,Feminino,Graduação,South Korea,4.5,KakaoTalk,Sim,7.3,6,6
-22,Masculino,Pós-Graduação,Russia,4.0,VKontakte,Não,8.0,7,5
-19,Feminino,Graduação,United States,6.8,TikTok,Sim,5.3,4,9
-21,Masculino,Pós-Graduação,United Kingdom,4.9,Instagram,Sim,6.7,6,7
-20,Feminino,Graduação,Australia,4.2,Facebook,Não,7.6,7,5
-22,Masculino,Pós-Graduação,Germany,3.4,Instagram,Não,8.1,8,4
-19,Feminino,Graduação,Japan,2.9,LINE,Não,8.7,8,3
-21,Masculino,Pós-Graduação,Italy,5.1,TikTok,Sim,7.0,5,8
-20,Feminino,Graduação,South Korea,4.4,KakaoTalk,Sim,7.4,6,6
-22,Masculino,Pós-Graduação,Russia,3.9,VKontakte,Não,8.1,7,5
-19,Feminino,Graduação,United States,6.9,Instagram,Sim,5.2,4,9
-21,Masculino,Pós-Graduação,United Kingdom,4.8,Facebook,Sim,6.8,6,7
-20,Feminino,Graduação,Australia,4.1,Instagram,Não,7.7,7,5
-22,Masculino,Pós-Graduação,Germany,3.3,Facebook,Não,8.2,8,4
-19,Feminino,Graduação,Japan,2.8,LINE,Não,8.8,8,3
-21,Masculino,Pós-Graduação,Italy,5.0,Instagram,Sim,7.1,5,7
-20,Feminino,Graduação,South Korea,4.3,KakaoTalk,Sim,7.5,6,6
-22,Masculino,Pós-Graduação,Russia,3.8,VKontakte,Não,8.2,7,5
-19,Feminino,Graduação,United States,7.0,TikTok,Sim,5.1,4,9
-21,Masculino,Pós-Graduação,United Kingdom,4.7,Instagram,Sim,6.9,6,7
-20,Feminino,Graduação,Australia,4.0,Facebook,Não,7.8,7,5
-22,Masculino,Pós-Graduação,Germany,3.2,Instagram,Não,8.3,8,4
-19,Feminino,Graduação,Japan,2.7,LINE,Não,8.9,8,3
-21,Masculino,Pós-Graduação,Italy,4.9,TikTok,Sim,7.2,5,8
-20,Feminino,Graduação,South Korea,4.2,KakaoTalk,Sim,7.6,6,6
-22,Masculino,Pós-Graduação,Russia,3.7,VKontakte,Não,8.3,7,5
-19,Feminino,Graduação,United States,7.1,Instagram,Sim,5.0,4,9
-21,Masculino,Pós-Graduação,United Kingdom,4.6,Facebook,Sim,7.0,6,7
-20,Feminino,Graduação,Australia,3.9,Instagram,Não,7.9,7,5
-22,Masculino,Pós-Graduação,Germany,3.1,Facebook,Não,8.4,8,4
-19,Feminino,Graduação,Spain,5.2,Instagram,Sim,6.8,6,7
-21,Masculino,Pós-Graduação,Denmark,4.1,Facebook,Não,7.8,8,4
-20,Feminino,Graduação,Ireland,5.0,Instagram,Sim,7.0,7,6
-22,Masculino,Pós-Graduação,India,5.8,WhatsApp,Sim,6.5,5,8
-19,Feminino,Graduação,Switzerland,4.0,Instagram,Não,7.9,8,4
-21,Masculino,Pós-Graduação,Turkey,5.5,Instagram,Sim,6.7,6,7
-20,Feminino,Graduação,United States,6.8,TikTok,Sim,5.5,5,9
-22,Masculino,Pós-Graduação,Mexico,5.6,WhatsApp,Sim,6.6,6,7
-19,Feminino,Graduação,France,4.5,Instagram,Não,7.5,7,5
-21,Masculino,Pós-Graduação,Canada,5.3,Instagram,Sim,6.9,6,7
-20,Feminino,Graduação,Spain,5.1,TikTok,Sim,6.7,6,7
-22,Masculino,Pós-Graduação,Denmark,3.9,Facebook,Não,7.9,8,4
-19,Feminino,Graduação,Ireland,4.8,Instagram,Sim,7.1,7,6
-21,Masculino,Pós-Graduação,India,5.9,WhatsApp,Sim,6.4,5,8
-20,Feminino,Graduação,Switzerland,3.8,Instagram,Não,8.0,8,4
-22,Masculino,Pós-Graduação,Turkey,5.4,TikTok,Sim,6.8,6,7
-19,Feminino,Graduação,United States,6.9,Instagram,Sim,5.4,5,9
-21,Masculino,Pós-Graduação,Mexico,5.7,WhatsApp,Sim,6.5,6,7
-20,Feminino,Graduação,France,4.4,Instagram,Não,7.6,7,5
-22,Masculino,Pós-Graduação,Canada,5.2,TikTok,Sim,7.0,6,7
-19,Feminino,Graduação,Spain,5.0,Instagram,Sim,6.9,6,7
-21,Masculino,Pós-Graduação,Denmark,3.8,Facebook,Não,8.0,8,4
-20,Feminino,Graduação,Ireland,4.7,TikTok,Sim,7.2,7,6
-22,Masculino,Pós-Graduação,India,6.0,WhatsApp,Sim,6.3,5,8
-19,Feminino,Graduação,Switzerland,3.7,Instagram,Não,8.1,8,4
-21,Masculino,Pós-Graduação,Turkey,5.3,Instagram,Sim,6.9,6,7
-20,Feminino,Graduação,United States,7.0,TikTok,Sim,5.3,5,9
-22,Masculino,Pós-Graduação,Mexico,5.8,WhatsApp,Sim,6.4,6,7
-19,Feminino,Graduação,France,4.3,Instagram,Não,7.7,7,5
-21,Masculino,Pós-Graduação,Canada,5.1,Instagram,Sim,7.1,6,7
-20,Feminino,Graduação,Spain,4.9,TikTok,Sim,7.0,6,7
-22,Masculino,Pós-Graduação,Denmark,3.7,Facebook,Não,8.1,8,4
-19,Feminino,Graduação,Ireland,4.6,Instagram,Sim,7.3,7,6
-21,Masculino,Pós-Graduação,India,6.1,WhatsApp,Sim,6.2,5,8
-20,Feminino,Graduação,Switzerland,3.6,Instagram,Não,8.2,8,4
-22,Masculino,Pós-Graduação,Turkey,5.2,TikTok,Sim,7.0,6,7
-19,Feminino,Graduação,United States,7.1,Instagram,Sim,5.2,5,9
-21,Masculino,Pós-Graduação,Mexico,5.9,WhatsApp,Sim,6.3,6,7
-20,Feminino,Graduação,France,4.2,Instagram,Não,7.8,7,5
-22,Masculino,Pós-Graduação,Canada,5.0,TikTok,Sim,7.2,6,7
-19,Feminino,Graduação,Spain,4.8,Instagram,Sim,7.1,6,7
-21,Masculino,Pós-Graduação,Denmark,3.6,Facebook,Não,8.2,8,4
-20,Feminino,Graduação,Ireland,4.5,TikTok,Sim,7.4,7,6
-22,Masculino,Pós-Graduação,India,6.2,WhatsApp,Sim,6.1,5,8
-19,Feminino,Graduação,Switzerland,3.5,Instagram,Não,8.3,8,4
-21,Masculino,Pós-Graduação,Turkey,5.1,Instagram,Sim,7.1,6,7
-20,Feminino,Graduação,United States,7.2,TikTok,Sim,5.1,5,9
-22,Masculino,Pós-Graduação,Mexico,6.0,WhatsApp,Sim,6.2,6,7
-19,Feminino,Graduação,France,4.1,Instagram,Não,7.9,7,5
-21,Masculino,Pós-Graduação,Canada,4.9,Instagram,Sim,7.3,6,7
-20,Feminino,Graduação,Spain,4.7,TikTok,Sim,7.2,6,7
-22,Masculino,Pós-Graduação,Denmark,3.5,Facebook,Não,8.3,8,4
-19,Feminino,Graduação,Ireland,4.4,Instagram,Sim,7.5,7,6
-21,Masculino,Pós-Graduação,India,6.3,WhatsApp,Sim,6.0,5,8
-20,Feminino,Graduação,Switzerland,3.4,Instagram,Não,8.4,8,4
-22,Masculino,Pós-Graduação,Turkey,5.0,TikTok,Sim,7.2,6,7
-19,Feminino,Graduação,United States,7.3,Instagram,Sim,5.0,5,9
-21,Masculino,Pós-Graduação,Mexico,6.1,WhatsApp,Sim,6.1,6,7
-20,Feminino,Graduação,France,4.0,Instagram,Não,8.0,7,5
-22,Masculino,Pós-Graduação,Canada,4.8,TikTok,Sim,7.4,6,7
-19,Feminino,Graduação,Spain,4.6,Instagram,Sim,7.3,6,7
-21,Masculino,Pós-Graduação,Denmark,3.4,Facebook,Não,8.4,8,4
-20,Feminino,Graduação,Ireland,4.3,TikTok,Sim,7.6,7,6
-22,Masculino,Pós-Graduação,India,6.4,WhatsApp,Sim,5.9,5,8
-19,Feminino,Graduação,Switzerland,3.3,Instagram,Não,8.5,8,4
-21,Masculino,Pós-Graduação,Turkey,4.9,Instagram,Sim,7.3,6,7
-20,Feminino,Graduação,United States,7.4,TikTok,Sim,4.9,5,9
-22,Masculino,Pós-Graduação,Mexico,6.2,WhatsApp,Sim,6.0,6,7
-19,Feminino,Graduação,France,3.9,Instagram,Não,8.1,7,5
-21,Masculino,Pós-Graduação,Canada,4.7,Instagram,Sim,7.5,6,7
-20,Feminino,Graduação,Spain,4.5,TikTok,Sim,7.4,6,7
-22,Masculino,Pós-Graduação,Denmark,3.3,Facebook,Não,8.5,8,4
-19,Feminino,Graduação,Ireland,4.2,Instagram,Sim,7.7,7,6
-21,Masculino,Pós-Graduação,India,6.5,WhatsApp,Sim,5.8,5,8
-20,Feminino,Graduação,Switzerland,3.2,Instagram,Não,8.6,8,4
-22,Masculino,Pós-Graduação,Turkey,4.8,TikTok,Sim,7.4,6,7
-19,Feminino,Graduação,United States,7.5,Instagram,Sim,4.8,5,9
-21,Masculino,Pós-Graduação,Mexico,6.3,WhatsApp,Sim,5.9,6,7
-20,Feminino,Graduação,France,3.8,Instagram,Não,8.2,7,5
-22,Masculino,Pós-Graduação,Canada,4.6,TikTok,Sim,7.6,6,7
-19,Feminino,Graduação,Spain,4.4,Instagram,Sim,7.5,6,7
-21,Masculino,Pós-Graduação,Denmark,3.2,Facebook,Não,8.6,8,4
-20,Feminino,Graduação,Ireland,4.1,TikTok,Sim,7.8,7,6
-22,Masculino,Pós-Graduação,India,6.6,WhatsApp,Sim,5.7,5,8
-19,Feminino,Graduação,Switzerland,3.1,Instagram,Não,8.7,8,4
-21,Masculino,Pós-Graduação,Turkey,4.7,Instagram,Sim,7.5,6,7
-20,Feminino,Graduação,United States,7.6,TikTok,Sim,4.7,5,9
-22,Masculino,Pós-Graduação,Mexico,6.4,WhatsApp,Sim,5.8,6,7
-19,Feminino,Graduação,France,3.7,Instagram,Não,8.3,7,5
-21,Masculino,Pós-Graduação,Canada,4.5,Instagram,Sim,7.7,6,7
-20,Feminino,Graduação,Spain,4.3,TikTok,Sim,7.6,6,7
-22,Masculino,Pós-Graduação,Denmark,3.1,Facebook,Não,8.7,8,4
-19,Feminino,Graduação,Ireland,4.0,Instagram,Sim,7.9,7,6
-21,Masculino,Pós-Graduação,India,6.7,WhatsApp,Sim,5.6,5,8
-20,Feminino,Graduação,Switzerland,3.0,Instagram,Não,8.8,8,4
-22,Masculino,Pós-Graduação,Turkey,4.6,TikTok,Sim,7.6,6,7
-19,Feminino,Graduação,United States,7.7,Instagram,Sim,4.6,5,9
-21,Masculino,Pós-Graduação,Mexico,6.5,WhatsApp,Sim,5.7,6,7
-20,Feminino,Graduação,France,3.6,Instagram,Não,8.4,7,5
-22,Masculino,Pós-Graduação,Canada,4.4,TikTok,Sim,7.8,6,7
-19,Feminino,Graduação,Spain,4.2,Instagram,Sim,7.7,6,7
-21,Masculino,Pós-Graduação,Denmark,3.0,Facebook,Não,8.8,8,4
-20,Feminino,Graduação,Ireland,3.9,TikTok,Sim,8.0,7,6
-22,Masculino,Pós-Graduação,India,6.8,WhatsApp,Sim,5.5,5,8
-19,Feminino,Graduação,Switzerland,2.9,Instagram,Não,8.9,8,4
-21,Masculino,Pós-Graduação,Turkey,4.5,Instagram,Sim,7.7,6,7
-20,Feminino,Graduação,United States,7.8,TikTok,Sim,4.5,5,9
-22,Masculino,Pós-Graduação,Mexico,6.6,WhatsApp,Sim,5.6,6,7
-19,Feminino,Graduação,France,3.5,Instagram,Não,8.5,7,5
-21,Masculino,Pós-Graduação,Canada,4.3,Instagram,Sim,7.9,6,7
-20,Feminino,Graduação,Spain,4.1,TikTok,Sim,7.8,6,7
-22,Masculino,Pós-Graduação,Denmark,2.9,Facebook,Não,8.9,8,4
-19,Feminino,Graduação,Ireland,3.8,Instagram,Sim,8.1,7,6
-21,Masculino,Pós-Graduação,India,6.9,WhatsApp,Sim,5.4,5,8
-20,Feminino,Graduação,Switzerland,2.8,Instagram,Não,9.0,8,4
-22,Masculino,Pós-Graduação,Turkey,4.4,TikTok,Sim,7.8,6,7
-19,Feminino,Graduação,United States,7.9,Instagram,Sim,4.4,5,9
-21,Masculino,Pós-Graduação,Mexico,6.7,WhatsApp,Sim,5.5,6,7
-20,Feminino,Graduação,France,3.4,Instagram,Não,8.6,7,5
-22,Masculino,Pós-Graduação,Canada,4.2,TikTok,Sim,8.0,6,7
-19,Feminino,Graduação,Spain,4.0,Instagram,Sim,7.9,6,7
-21,Masculino,Pós-Graduação,Denmark,2.8,Facebook,Não,9.0,8,4
-20,Feminino,Graduação,Ireland,3.7,TikTok,Sim,8.2,7,6
-22,Masculino,Pós-Graduação,India,7.0,WhatsApp,Sim,5.3,5,8
-19,Feminino,Graduação,Switzerland,2.7,Instagram,Não,9.1,8,4
-21,Masculino,Pós-Graduação,Turkey,4.3,Instagram,Sim,7.9,6,7
-20,Feminino,Graduação,United States,8.0,TikTok,Sim,4.3,5,9
-22,Masculino,Pós-Graduação,Mexico,6.8,WhatsApp,Sim,5.4,6,7
-19,Feminino,Graduação,France,3.3,Instagram,Não,8.7,7,5
-21,Masculino,Pós-Graduação,Canada,4.1,Instagram,Sim,8.1,6,7
-20,Feminino,Graduação,Spain,3.9,TikTok,Sim,8.0,6,7
-22,Masculino,Pós-Graduação,Denmark,2.7,Facebook,Não,9.1,8,4
-19,Feminino,Graduação,Ireland,3.6,Instagram,Sim,8.3,7,6
-21,Masculino,Pós-Graduação,India,7.1,WhatsApp,Sim,5.2,5,8
-20,Feminino,Graduação,Switzerland,2.6,Instagram,Não,9.2,8,4
-22,Masculino,Pós-Graduação,Turkey,4.2,TikTok,Sim,8.0,6,7
-19,Feminino,Graduação,United States,8.1,Instagram,Sim,4.2,5,9
-21,Masculino,Pós-Graduação,Mexico,6.9,WhatsApp,Sim,5.3,6,7
-20,Feminino,Graduação,France,3.2,Instagram,Não,8.8,7,5
-22,Masculino,Pós-Graduação,Canada,4.0,TikTok,Sim,8.2,6,7
-19,Feminino,Graduação,Spain,3.8,Instagram,Sim,8.1,6,7
-21,Masculino,Pós-Graduação,Denmark,2.6,Facebook,Não,9.2,8,4
-20,Feminino,Graduação,Ireland,3.5,TikTok,Sim,8.4,7,6
-22,Masculino,Pós-Graduação,India,7.2,WhatsApp,Sim,5.1,5,8
-19,Feminino,Graduação,Switzerland,2.5,Instagram,Não,9.3,8,4
-21,Masculino,Pós-Graduação,Turkey,4.1,Instagram,Sim,8.1,6,7
-20,Feminino,Graduação,United States,8.2,TikTok,Sim,4.1,5,9
-22,Masculino,Pós-Graduação,Mexico,7.0,WhatsApp,Sim,5.2,6,7
-19,Feminino,Graduação,France,3.1,Instagram,Não,8.9,7,5
-21,Masculino,Pós-Graduação,Canada,3.9,Instagram,Sim,8.3,6,7
-20,Feminino,Graduação,Spain,3.7,TikTok,Sim,8.2,6,7
-22,Masculino,Pós-Graduação,Denmark,2.5,Facebook,Não,9.3,8,4
-19,Feminino,Graduação,Ireland,3.4,Instagram,Sim,8.5,7,6
-21,Masculino,Pós-Graduação,India,7.3,WhatsApp,Sim,5.0,5,8
-20,Feminino,Graduação,Switzerland,2.4,Instagram,Não,9.4,8,4
-22,Masculino,Pós-Graduação,Turkey,4.0,TikTok,Sim,8.2,6,7
-19,Feminino,Graduação,United States,8.3,Instagram,Sim,4.0,5,9
-21,Masculino,Pós-Graduação,Mexico,7.1,WhatsApp,Sim,5.1,6,7
-20,Feminino,Graduação,France,3.0,Instagram,Não,9.0,7,5
-22,Masculino,Pós-Graduação,Canada,3.8,TikTok,Sim,8.4,6,7
-19,Feminino,Graduação,Spain,3.6,Instagram,Sim,8.3,6,7
-21,Masculino,Pós-Graduação,Denmark,2.4,Facebook,Não,9.4,8,4
-20,Feminino,Graduação,Ireland,3.3,TikTok,Sim,8.6,7,6
-22,Masculino,Pós-Graduação,India,7.4,WhatsApp,Sim,4.9,5,8
-19,Feminino,Graduação,Switzerland,2.3,Instagram,Não,9.5,8,4
-21,Masculino,Pós-Graduação,Turkey,3.9,Instagram,Sim,8.3,6,7
-20,Feminino,Graduação,United States,8.4,TikTok,Sim,3.9,5,9
-22,Masculino,Pós-Graduação,Mexico,7.2,WhatsApp,Sim,5.0,6,7
-19,Feminino,Graduação,France,2.9,Instagram,Não,9.1,7,5
-21,Masculino,Pós-Graduação,Canada,3.7,Instagram,Sim,8.5,6,7
-20,Feminino,Graduação,Spain,3.5,TikTok,Sim,8.4,6,7
-22,Masculino,Pós-Graduação,Denmark,2.3,Facebook,Não,9.5,8,4
-19,Feminino,Graduação,Ireland,3.2,Instagram,Sim,8.7,7,6
-21,Masculino,Pós-Graduação,India,7.5,WhatsApp,Sim,4.8,5,8
-20,Feminino,Graduação,Switzerland,2.2,Instagram,Não,9.6,8,4
-22,Masculino,Pós-Graduação,Turkey,3.8,TikTok,Sim,8.4,6,7
-19,Feminino,Graduação,United States,8.5,Instagram,Sim,3.8,5,9
-21,Masculino,Pós-Graduação,Mexico,7.3,WhatsApp,Sim,4.9,6,7
-20,Feminino,Graduação,France,2.8,Instagram,Não,9.2,7,5
-22,Masculino,Pós-Graduação,Canada,3.6,TikTok,Sim,8.6,6,7
-19,Feminino,Graduação,Brazil,6.2,WhatsApp,Sim,6.3,6,7
+22,Masculino,Pós-Graduação,Maldivas,4.5,TikTok,Sim,4.1,6,8
+19,Feminino,Graduação,Estados Unidos,6.5,Instagram,Sim,6.0,5,9
+21,Masculino,Pós-Graduação,Reino Unido,5.8,TikTok,Sim,6.5,6,7
+20,Feminino,Graduação,Austrália,4.5,Instagram,Não,7.5,8,5
+22,Masculino,Pós-Graduação,Alemanha,4.2,Facebook,Não,7.8,7,4
+19,Feminino,Graduação,Japão,3.8,LINE,Não,7.9,8,3
+21,Masculino,Pós-Graduação,Itália,5.5,Instagram,Sim,6.8,6,7
+20,Feminino,Graduação,Coreia do Sul,5.2,KakaoTalk,Sim,6.5,6,6
+22,Masculino,Pós-Graduação,Rússia,4.8,VKontakte,Não,7.2,7,5
+19,Feminino,Graduação,Estados Unidos,7.0,TikTok,Sim,5.8,4,9
+21,Masculino,Pós-Graduação,Reino Unido,5.5,Instagram,Sim,6.7,6,7
+20,Feminino,Graduação,Austrália,4.7,Facebook,Não,7.4,7,5
+22,Masculino,Pós-Graduação,Alemanha,4.0,Instagram,Não,7.9,8,4
+19,Feminino,Graduação,Japão,3.5,LINE,Não,8.0,8,3
+21,Masculino,Pós-Graduação,Itália,5.7,TikTok,Sim,6.5,5,8
+20,Feminino,Graduação,Coreia do Sul,5.0,KakaoTalk,Sim,6.8,6,6
+22,Masculino,Pós-Graduação,Rússia,4.5,VKontakte,Não,7.4,7,5
+19,Feminino,Graduação,Estados Unidos,6.8,Instagram,Sim,5.9,4,9
+21,Masculino,Pós-Graduação,Reino Unido,5.6,Facebook,Sim,6.6,6,7
+20,Feminino,Graduação,Austrália,4.6,Instagram,Não,7.3,7,5
+22,Masculino,Pós-Graduação,Alemanha,4.1,Facebook,Não,7.7,8,4
+19,Feminino,Graduação,Japão,3.7,LINE,Não,7.8,8,3
+21,Masculino,Pós-Graduação,Itália,5.4,Instagram,Sim,6.7,5,7
+20,Feminino,Graduação,Coreia do Sul,5.1,KakaoTalk,Sim,6.6,6,6
+22,Masculino,Pós-Graduação,Rússia,4.7,VKontakte,Não,7.3,7,5
+19,Feminino,Graduação,Estados Unidos,6.9,TikTok,Sim,5.7,4,9
+21,Masculino,Pós-Graduação,Reino Unido,5.7,Instagram,Sim,6.4,6,7
+20,Feminino,Graduação,Austrália,4.8,Facebook,Não,7.2,7,5
+22,Masculino,Pós-Graduação,Alemanha,3.9,Instagram,Não,7.8,8,4
+19,Feminino,Graduação,Japão,3.6,LINE,Não,8.1,8,3
+21,Masculino,Pós-Graduação,Itália,5.6,TikTok,Sim,6.6,5,8
+20,Feminino,Graduação,Coreia do Sul,4.9,KakaoTalk,Sim,6.9,6,6
+22,Masculino,Pós-Graduação,Rússia,4.6,VKontakte,Não,7.5,7,5
+19,Feminino,Graduação,Estados Unidos,6.7,Instagram,Sim,5.8,4,9
+21,Masculino,Pós-Graduação,Reino Unido,5.4,Facebook,Sim,6.5,6,7
+20,Feminino,Graduação,Austrália,4.4,Instagram,Não,7.4,7,5
+22,Masculino,Pós-Graduação,Alemanha,4.0,Facebook,Não,7.6,8,4
+19,Feminino,Graduação,Japão,3.4,LINE,Não,8.2,8,3
+21,Masculino,Pós-Graduação,Itália,5.3,Instagram,Sim,6.8,5,7
+20,Feminino,Graduação,Coreia do Sul,5.0,KakaoTalk,Sim,6.7,6,6
+22,Masculino,Pós-Graduação,Rússia,4.4,VKontakte,Não,7.6,7,5
+19,Feminino,Graduação,Estados Unidos,6.6,TikTok,Sim,5.6,4,9
+21,Masculino,Pós-Graduação,Reino Unido,5.3,Instagram,Sim,6.3,6,7
+20,Feminino,Graduação,Austrália,4.3,Facebook,Não,7.5,7,5
+22,Masculino,Pós-Graduação,Alemanha,3.8,Instagram,Não,7.7,8,4
+19,Feminino,Graduação,Japão,3.3,LINE,Não,8.3,8,3
+21,Masculino,Pós-Graduação,Itália,5.2,TikTok,Sim,6.9,5,8
+20,Feminino,Graduação,Coreia do Sul,4.8,KakaoTalk,Sim,7.0,6,6
+22,Masculino,Pós-Graduação,Rússia,4.3,VKontakte,Não,7.7,7,5
+19,Feminino,Graduação,Estados Unidos,6.4,Instagram,Sim,5.7,4,9
+21,Masculino,Pós-Graduação,Reino Unido,5.2,Facebook,Sim,6.4,6,7
+20,Feminino,Graduação,Austrália,4.5,Instagram,Não,7.3,7,5
+22,Masculino,Pós-Graduação,Alemanha,3.7,Facebook,Não,7.8,8,4
+19,Feminino,Graduação,Japão,3.2,LINE,Não,8.4,8,3
+21,Masculino,Pós-Graduação,Itália,5.4,Instagram,Sim,6.7,5,7
+20,Feminino,Graduação,Coreia do Sul,4.7,KakaoTalk,Sim,7.1,6,6
+22,Masculino,Pós-Graduação,Rússia,4.2,VKontakte,Não,7.8,7,5
+19,Feminino,Graduação,Estados Unidos,6.6,TikTok,Sim,5.5,4,9
+21,Masculino,Pós-Graduação,Reino Unido,5.1,Instagram,Sim,6.5,6,7
+20,Feminino,Graduação,Austrália,4.4,Facebook,Não,7.4,7,5
+22,Masculino,Pós-Graduação,Alemanha,3.6,Instagram,Não,7.9,8,4
+19,Feminino,Graduação,Japão,3.1,LINE,Não,8.5,8,3
+21,Masculino,Pós-Graduação,Itália,5.3,TikTok,Sim,6.8,5,8
+20,Feminino,Graduação,Coreia do Sul,4.6,KakaoTalk,Sim,7.2,6,6
+22,Masculino,Pós-Graduação,Rússia,4.1,VKontakte,Não,7.9,7,5
+19,Feminino,Graduação,Estados Unidos,6.7,Instagram,Sim,5.4,4,9
+21,Masculino,Pós-Graduação,Reino Unido,5.0,Facebook,Sim,6.6,6,7
+20,Feminino,Graduação,Austrália,4.3,Instagram,Não,7.5,7,5
+22,Masculino,Pós-Graduação,Alemanha,3.5,Facebook,Não,8.0,8,4
+19,Feminino,Graduação,Japão,3.0,LINE,Não,8.6,8,3
+21,Masculino,Pós-Graduação,Itália,5.2,Instagram,Sim,6.9,5,7
+20,Feminino,Graduação,Coreia do Sul,4.5,KakaoTalk,Sim,7.3,6,6
+22,Masculino,Pós-Graduação,Rússia,4.0,VKontakte,Não,8.0,7,5
+19,Feminino,Graduação,Estados Unidos,6.8,TikTok,Sim,5.3,4,9
+21,Masculino,Pós-Graduação,Reino Unido,4.9,Instagram,Sim,6.7,6,7
+20,Feminino,Graduação,Austrália,4.2,Facebook,Não,7.6,7,5
+22,Masculino,Pós-Graduação,Alemanha,3.4,Instagram,Não,8.1,8,4
+19,Feminino,Graduação,Japão,2.9,LINE,Não,8.7,8,3
+21,Masculino,Pós-Graduação,Itália,5.1,TikTok,Sim,7.0,5,8
+20,Feminino,Graduação,Coreia do Sul,4.4,KakaoTalk,Sim,7.4,6,6
+22,Masculino,Pós-Graduação,Rússia,3.9,VKontakte,Não,8.1,7,5
+19,Feminino,Graduação,Estados Unidos,6.9,Instagram,Sim,5.2,4,9
+21,Masculino,Pós-Graduação,Reino Unido,4.8,Facebook,Sim,6.8,6,7
+20,Feminino,Graduação,Austrália,4.1,Instagram,Não,7.7,7,5
+22,Masculino,Pós-Graduação,Alemanha,3.3,Facebook,Não,8.2,8,4
+19,Feminino,Graduação,Japão,2.8,LINE,Não,8.8,8,3
+21,Masculino,Pós-Graduação,Itália,5.0,Instagram,Sim,7.1,5,7
+20,Feminino,Graduação,Coreia do Sul,4.3,KakaoTalk,Sim,7.5,6,6
+22,Masculino,Pós-Graduação,Rússia,3.8,VKontakte,Não,8.2,7,5
+19,Feminino,Graduação,Estados Unidos,7.0,TikTok,Sim,5.1,4,9
+21,Masculino,Pós-Graduação,Reino Unido,4.7,Instagram,Sim,6.9,6,7
+20,Feminino,Graduação,Austrália,4.0,Facebook,Não,7.8,7,5
+22,Masculino,Pós-Graduação,Alemanha,3.2,Instagram,Não,8.3,8,4
+19,Feminino,Graduação,Japão,2.7,LINE,Não,8.9,8,3
+21,Masculino,Pós-Graduação,Itália,4.9,TikTok,Sim,7.2,5,8
+20,Feminino,Graduação,Coreia do Sul,4.2,KakaoTalk,Sim,7.6,6,6
+22,Masculino,Pós-Graduação,Rússia,3.7,VKontakte,Não,8.3,7,5
+19,Feminino,Graduação,Estados Unidos,7.1,Instagram,Sim,5.0,4,9
+21,Masculino,Pós-Graduação,Reino Unido,4.6,Facebook,Sim,7.0,6,7
+20,Feminino,Graduação,Austrália,3.9,Instagram,Não,7.9,7,5
+22,Masculino,Pós-Graduação,Alemanha,3.1,Facebook,Não,8.4,8,4
+19,Feminino,Graduação,Espanha,5.2,Instagram,Sim,6.8,6,7
+21,Masculino,Pós-Graduação,Dinamarca,4.1,Facebook,Não,7.8,8,4
+20,Feminino,Graduação,Irlanda,5.0,Instagram,Sim,7.0,7,6
+22,Masculino,Pós-Graduação,Índia,5.8,WhatsApp,Sim,6.5,5,8
+19,Feminino,Graduação,Suíça,4.0,Instagram,Não,7.9,8,4
+21,Masculino,Pós-Graduação,Turquia,5.5,Instagram,Sim,6.7,6,7
+20,Feminino,Graduação,Estados Unidos,6.8,TikTok,Sim,5.5,5,9
+22,Masculino,Pós-Graduação,México,5.6,WhatsApp,Sim,6.6,6,7
+19,Feminino,Graduação,França,4.5,Instagram,Não,7.5,7,5
+21,Masculino,Pós-Graduação,Canadá,5.3,Instagram,Sim,6.9,6,7
+20,Feminino,Graduação,Espanha,5.1,TikTok,Sim,6.7,6,7
+22,Masculino,Pós-Graduação,Dinamarca,3.9,Facebook,Não,7.9,8,4
+19,Feminino,Graduação,Irlanda,4.8,Instagram,Sim,7.1,7,6
+21,Masculino,Pós-Graduação,Índia,5.9,WhatsApp,Sim,6.4,5,8
+20,Feminino,Graduação,Suíça,3.8,Instagram,Não,8.0,8,4
+22,Masculino,Pós-Graduação,Turquia,5.4,TikTok,Sim,6.8,6,7
+19,Feminino,Graduação,Estados Unidos,6.9,Instagram,Sim,5.4,5,9
+21,Masculino,Pós-Graduação,México,5.7,WhatsApp,Sim,6.5,6,7
+20,Feminino,Graduação,França,4.4,Instagram,Não,7.6,7,5
+22,Masculino,Pós-Graduação,Canadá,5.2,TikTok,Sim,7.0,6,7
+19,Feminino,Graduação,Espanha,5.0,Instagram,Sim,6.9,6,7
+21,Masculino,Pós-Graduação,Dinamarca,3.8,Facebook,Não,8.0,8,4
+20,Feminino,Graduação,Irlanda,4.7,TikTok,Sim,7.2,7,6
+22,Masculino,Pós-Graduação,Índia,6.0,WhatsApp,Sim,6.3,5,8
+19,Feminino,Graduação,Suíça,3.7,Instagram,Não,8.1,8,4
+21,Masculino,Pós-Graduação,Turquia,5.3,Instagram,Sim,6.9,6,7
+20,Feminino,Graduação,Estados Unidos,7.0,TikTok,Sim,5.3,5,9
+22,Masculino,Pós-Graduação,México,5.8,WhatsApp,Sim,6.4,6,7
+19,Feminino,Graduação,França,4.3,Instagram,Não,7.7,7,5
+21,Masculino,Pós-Graduação,Canadá,5.1,Instagram,Sim,7.1,6,7
+20,Feminino,Graduação,Espanha,4.9,TikTok,Sim,7.0,6,7
+22,Masculino,Pós-Graduação,Dinamarca,3.7,Facebook,Não,8.1,8,4
+19,Feminino,Graduação,Irlanda,4.6,Instagram,Sim,7.3,7,6
+21,Masculino,Pós-Graduação,Índia,6.1,WhatsApp,Sim,6.2,5,8
+20,Feminino,Graduação,Suíça,3.6,Instagram,Não,8.2,8,4
+22,Masculino,Pós-Graduação,Turquia,5.2,TikTok,Sim,7.0,6,7
+19,Feminino,Graduação,Estados Unidos,7.1,Instagram,Sim,5.2,5,9
+21,Masculino,Pós-Graduação,México,5.9,WhatsApp,Sim,6.3,6,7
+20,Feminino,Graduação,França,4.2,Instagram,Não,7.8,7,5
+22,Masculino,Pós-Graduação,Canadá,5.0,TikTok,Sim,7.2,6,7
+19,Feminino,Graduação,Espanha,4.8,Instagram,Sim,7.1,6,7
+21,Masculino,Pós-Graduação,Dinamarca,3.6,Facebook,Não,8.2,8,4
+20,Feminino,Graduação,Irlanda,4.5,TikTok,Sim,7.4,7,6
+22,Masculino,Pós-Graduação,Índia,6.2,WhatsApp,Sim,6.1,5,8
+19,Feminino,Graduação,Suíça,3.5,Instagram,Não,8.3,8,4
+21,Masculino,Pós-Graduação,Turquia,5.1,Instagram,Sim,7.1,6,7
+20,Feminino,Graduação,Estados Unidos,7.2,TikTok,Sim,5.1,5,9
+22,Masculino,Pós-Graduação,México,6.0,WhatsApp,Sim,6.2,6,7
+19,Feminino,Graduação,França,4.1,Instagram,Não,7.9,7,5
+21,Masculino,Pós-Graduação,Canadá,4.9,Instagram,Sim,7.3,6,7
+20,Feminino,Graduação,Espanha,4.7,TikTok,Sim,7.2,6,7
+22,Masculino,Pós-Graduação,Dinamarca,3.5,Facebook,Não,8.3,8,4
+19,Feminino,Graduação,Irlanda,4.4,Instagram,Sim,7.5,7,6
+21,Masculino,Pós-Graduação,Índia,6.3,WhatsApp,Sim,6.0,5,8
+20,Feminino,Graduação,Suíça,3.4,Instagram,Não,8.4,8,4
+22,Masculino,Pós-Graduação,Turquia,5.0,TikTok,Sim,7.2,6,7
+19,Feminino,Graduação,Estados Unidos,7.3,Instagram,Sim,5.0,5,9
+21,Masculino,Pós-Graduação,México,6.1,WhatsApp,Sim,6.1,6,7
+20,Feminino,Graduação,França,4.0,Instagram,Não,8.0,7,5
+22,Masculino,Pós-Graduação,Canadá,4.8,TikTok,Sim,7.4,6,7
+19,Feminino,Graduação,Espanha,4.6,Instagram,Sim,7.3,6,7
+21,Masculino,Pós-Graduação,Dinamarca,3.4,Facebook,Não,8.4,8,4
+20,Feminino,Graduação,Irlanda,4.3,TikTok,Sim,7.6,7,6
+22,Masculino,Pós-Graduação,Índia,6.4,WhatsApp,Sim,5.9,5,8
+19,Feminino,Graduação,Suíça,3.3,Instagram,Não,8.5,8,4
+21,Masculino,Pós-Graduação,Turquia,4.9,Instagram,Sim,7.3,6,7
+20,Feminino,Graduação,Estados Unidos,7.4,TikTok,Sim,4.9,5,9
+22,Masculino,Pós-Graduação,México,6.2,WhatsApp,Sim,6.0,6,7
+19,Feminino,Graduação,França,3.9,Instagram,Não,8.1,7,5
+21,Masculino,Pós-Graduação,Canadá,4.7,Instagram,Sim,7.5,6,7
+20,Feminino,Graduação,Espanha,4.5,TikTok,Sim,7.4,6,7
+22,Masculino,Pós-Graduação,Dinamarca,3.3,Facebook,Não,8.5,8,4
+19,Feminino,Graduação,Irlanda,4.2,Instagram,Sim,7.7,7,6
+21,Masculino,Pós-Graduação,Índia,6.5,WhatsApp,Sim,5.8,5,8
+20,Feminino,Graduação,Suíça,3.2,Instagram,Não,8.6,8,4
+22,Masculino,Pós-Graduação,Turquia,4.8,TikTok,Sim,7.4,6,7
+19,Feminino,Graduação,Estados Unidos,7.5,Instagram,Sim,4.8,5,9
+21,Masculino,Pós-Graduação,México,6.3,WhatsApp,Sim,5.9,6,7
+20,Feminino,Graduação,França,3.8,Instagram,Não,8.2,7,5
+22,Masculino,Pós-Graduação,Canadá,4.6,TikTok,Sim,7.6,6,7
+19,Feminino,Graduação,Espanha,4.4,Instagram,Sim,7.5,6,7
+21,Masculino,Pós-Graduação,Dinamarca,3.2,Facebook,Não,8.6,8,4
+20,Feminino,Graduação,Irlanda,4.1,TikTok,Sim,7.8,7,6
+22,Masculino,Pós-Graduação,Índia,6.6,WhatsApp,Sim,5.7,5,8
+19,Feminino,Graduação,Suíça,3.1,Instagram,Não,8.7,8,4
+21,Masculino,Pós-Graduação,Turquia,4.7,Instagram,Sim,7.5,6,7
+20,Feminino,Graduação,Estados Unidos,7.6,TikTok,Sim,4.7,5,9
+22,Masculino,Pós-Graduação,México,6.4,WhatsApp,Sim,5.8,6,7
+19,Feminino,Graduação,França,3.7,Instagram,Não,8.3,7,5
+21,Masculino,Pós-Graduação,Canadá,4.5,Instagram,Sim,7.7,6,7
+20,Feminino,Graduação,Espanha,4.3,TikTok,Sim,7.6,6,7
+22,Masculino,Pós-Graduação,Dinamarca,3.1,Facebook,Não,8.7,8,4
+19,Feminino,Graduação,Irlanda,4.0,Instagram,Sim,7.9,7,6
+21,Masculino,Pós-Graduação,Índia,6.7,WhatsApp,Sim,5.6,5,8
+20,Feminino,Graduação,Suíça,3.0,Instagram,Não,8.8,8,4
+22,Masculino,Pós-Graduação,Turquia,4.6,TikTok,Sim,7.6,6,7
+19,Feminino,Graduação,Estados Unidos,7.7,Instagram,Sim,4.6,5,9
+21,Masculino,Pós-Graduação,México,6.5,WhatsApp,Sim,5.7,6,7
+20,Feminino,Graduação,França,3.6,Instagram,Não,8.4,7,5
+22,Masculino,Pós-Graduação,Canadá,4.4,TikTok,Sim,7.8,6,7
+19,Feminino,Graduação,Espanha,4.2,Instagram,Sim,7.7,6,7
+21,Masculino,Pós-Graduação,Dinamarca,3.0,Facebook,Não,8.8,8,4
+20,Feminino,Graduação,Irlanda,3.9,TikTok,Sim,8.0,7,6
+22,Masculino,Pós-Graduação,Índia,6.8,WhatsApp,Sim,5.5,5,8
+19,Feminino,Graduação,Suíça,2.9,Instagram,Não,8.9,8,4
+21,Masculino,Pós-Graduação,Turquia,4.5,Instagram,Sim,7.7,6,7
+20,Feminino,Graduação,Estados Unidos,7.8,TikTok,Sim,4.5,5,9
+22,Masculino,Pós-Graduação,México,6.6,WhatsApp,Sim,5.6,6,7
+19,Feminino,Graduação,França,3.5,Instagram,Não,8.5,7,5
+21,Masculino,Pós-Graduação,Canadá,4.3,Instagram,Sim,7.9,6,7
+20,Feminino,Graduação,Espanha,4.1,TikTok,Sim,7.8,6,7
+22,Masculino,Pós-Graduação,Dinamarca,2.9,Facebook,Não,8.9,8,4
+19,Feminino,Graduação,Irlanda,3.8,Instagram,Sim,8.1,7,6
+21,Masculino,Pós-Graduação,Índia,6.9,WhatsApp,Sim,5.4,5,8
+20,Feminino,Graduação,Suíça,2.8,Instagram,Não,9.0,8,4
+22,Masculino,Pós-Graduação,Turquia,4.4,TikTok,Sim,7.8,6,7
+19,Feminino,Graduação,Estados Unidos,7.9,Instagram,Sim,4.4,5,9
+21,Masculino,Pós-Graduação,México,6.7,WhatsApp,Sim,5.5,6,7
+20,Feminino,Graduação,França,3.4,Instagram,Não,8.6,7,5
+22,Masculino,Pós-Graduação,Canadá,4.2,TikTok,Sim,8.0,6,7
+19,Feminino,Graduação,Espanha,4.0,Instagram,Sim,7.9,6,7
+21,Masculino,Pós-Graduação,Dinamarca,2.8,Facebook,Não,9.0,8,4
+20,Feminino,Graduação,Irlanda,3.7,TikTok,Sim,8.2,7,6
+22,Masculino,Pós-Graduação,Índia,7.0,WhatsApp,Sim,5.3,5,8
+19,Feminino,Graduação,Suíça,2.7,Instagram,Não,9.1,8,4
+21,Masculino,Pós-Graduação,Turquia,4.3,Instagram,Sim,7.9,6,7
+20,Feminino,Graduação,Estados Unidos,8.0,TikTok,Sim,4.3,5,9
+22,Masculino,Pós-Graduação,México,6.8,WhatsApp,Sim,5.4,6,7
+19,Feminino,Graduação,França,3.3,Instagram,Não,8.7,7,5
+21,Masculino,Pós-Graduação,Canadá,4.1,Instagram,Sim,8.1,6,7
+20,Feminino,Graduação,Espanha,3.9,TikTok,Sim,8.0,6,7
+22,Masculino,Pós-Graduação,Dinamarca,2.7,Facebook,Não,9.1,8,4
+19,Feminino,Graduação,Irlanda,3.6,Instagram,Sim,8.3,7,6
+21,Masculino,Pós-Graduação,Índia,7.1,WhatsApp,Sim,5.2,5,8
+20,Feminino,Graduação,Suíça,2.6,Instagram,Não,9.2,8,4
+22,Masculino,Pós-Graduação,Turquia,4.2,TikTok,Sim,8.0,6,7
+19,Feminino,Graduação,Estados Unidos,8.1,Instagram,Sim,4.2,5,9
+21,Masculino,Pós-Graduação,México,6.9,WhatsApp,Sim,5.3,6,7
+20,Feminino,Graduação,França,3.2,Instagram,Não,8.8,7,5
+22,Masculino,Pós-Graduação,Canadá,4.0,TikTok,Sim,8.2,6,7
+19,Feminino,Graduação,Espanha,3.8,Instagram,Sim,8.1,6,7
+21,Masculino,Pós-Graduação,Dinamarca,2.6,Facebook,Não,9.2,8,4
+20,Feminino,Graduação,Irlanda,3.5,TikTok,Sim,8.4,7,6
+22,Masculino,Pós-Graduação,Índia,7.2,WhatsApp,Sim,5.1,5,8
+19,Feminino,Graduação,Suíça,2.5,Instagram,Não,9.3,8,4
+21,Masculino,Pós-Graduação,Turquia,4.1,Instagram,Sim,8.1,6,7
+20,Feminino,Graduação,Estados Unidos,8.2,TikTok,Sim,4.1,5,9
+22,Masculino,Pós-Graduação,México,7.0,WhatsApp,Sim,5.2,6,7
+19,Feminino,Graduação,França,3.1,Instagram,Não,8.9,7,5
+21,Masculino,Pós-Graduação,Canadá,3.9,Instagram,Sim,8.3,6,7
+20,Feminino,Graduação,Espanha,3.7,TikTok,Sim,8.2,6,7
+22,Masculino,Pós-Graduação,Dinamarca,2.5,Facebook,Não,9.3,8,4
+19,Feminino,Graduação,Irlanda,3.4,Instagram,Sim,8.5,7,6
+21,Masculino,Pós-Graduação,Índia,7.3,WhatsApp,Sim,5.0,5,8
+20,Feminino,Graduação,Suíça,2.4,Instagram,Não,9.4,8,4
+22,Masculino,Pós-Graduação,Turquia,4.0,TikTok,Sim,8.2,6,7
+19,Feminino,Graduação,Estados Unidos,8.3,Instagram,Sim,4.0,5,9
+21,Masculino,Pós-Graduação,México,7.1,WhatsApp,Sim,5.1,6,7
+20,Feminino,Graduação,França,3.0,Instagram,Não,9.0,7,5
+22,Masculino,Pós-Graduação,Canadá,3.8,TikTok,Sim,8.4,6,7
+19,Feminino,Graduação,Espanha,3.6,Instagram,Sim,8.3,6,7
+21,Masculino,Pós-Graduação,Dinamarca,2.4,Facebook,Não,9.4,8,4
+20,Feminino,Graduação,Irlanda,3.3,TikTok,Sim,8.6,7,6
+22,Masculino,Pós-Graduação,Índia,7.4,WhatsApp,Sim,4.9,5,8
+19,Feminino,Graduação,Suíça,2.3,Instagram,Não,9.5,8,4
+21,Masculino,Pós-Graduação,Turquia,3.9,Instagram,Sim,8.3,6,7
+20,Feminino,Graduação,Estados Unidos,8.4,TikTok,Sim,3.9,5,9
+22,Masculino,Pós-Graduação,México,7.2,WhatsApp,Sim,5.0,6,7
+19,Feminino,Graduação,França,2.9,Instagram,Não,9.1,7,5
+21,Masculino,Pós-Graduação,Canadá,3.7,Instagram,Sim,8.5,6,7
+20,Feminino,Graduação,Espanha,3.5,TikTok,Sim,8.4,6,7
+22,Masculino,Pós-Graduação,Dinamarca,2.3,Facebook,Não,9.5,8,4
+19,Feminino,Graduação,Irlanda,3.2,Instagram,Sim,8.7,7,6
+21,Masculino,Pós-Graduação,Índia,7.5,WhatsApp,Sim,4.8,5,8
+20,Feminino,Graduação,Suíça,2.2,Instagram,Não,9.6,8,4
+22,Masculino,Pós-Graduação,Turquia,3.8,TikTok,Sim,8.4,6,7
+19,Feminino,Graduação,Estados Unidos,8.5,Instagram,Sim,3.8,5,9
+21,Masculino,Pós-Graduação,México,7.3,WhatsApp,Sim,4.9,6,7
+20,Feminino,Graduação,França,2.8,Instagram,Não,9.2,7,5
+22,Masculino,Pós-Graduação,Canadá,3.6,TikTok,Sim,8.6,6,7
+19,Feminino,Graduação,Brasil,6.2,WhatsApp,Sim,6.3,6,7
 21,Masculino,Pós-Graduação,China,4.5,WeChat,Não,7.8,7,5
-20,Feminino,Graduação,Netherlands,3.8,Instagram,Não,8.2,8,4
-22,Masculino,Pós-Graduação,New Zealand,4.7,Instagram,Sim,7.5,7,6
-19,Feminino,Graduação,Singapore,5.1,TikTok,Sim,7.0,6,7
-21,Masculino,Pós-Graduação,Malaysia,5.5,WhatsApp,Sim,6.8,6,7
-20,Feminino,Graduação,United Arab Emirates,6.5,Instagram,Sim,6.5,5,8
-22,Masculino,Pós-Graduação,Poland,4.2,Facebook,Não,7.9,7,5
-19,Feminino,Graduação,India,6.8,WhatsApp,Sim,6.0,5,8
-21,Masculino,Pós-Graduação,Canada,4.8,Instagram,Sim,7.4,7,6
-20,Feminino,Graduação,Brazil,6.1,Instagram,Sim,6.4,6,7
+20,Feminino,Graduação,Países Baixos,3.8,Instagram,Não,8.2,8,4
+22,Masculino,Pós-Graduação,Nova Zelândia,4.7,Instagram,Sim,7.5,7,6
+19,Feminino,Graduação,Singapura,5.1,TikTok,Sim,7.0,6,7
+21,Masculino,Pós-Graduação,Malásia,5.5,WhatsApp,Sim,6.8,6,7
+20,Feminino,Graduação,Emirados Árabes Unidos,6.5,Instagram,Sim,6.5,5,8
+22,Masculino,Pós-Graduação,Polônia,4.2,Facebook,Não,7.9,7,5
+19,Feminino,Graduação,Índia,6.8,WhatsApp,Sim,6.0,5,8
+21,Masculino,Pós-Graduação,Canadá,4.8,Instagram,Sim,7.4,7,6
+20,Feminino,Graduação,Brasil,6.1,Instagram,Sim,6.4,6,7
 22,Masculino,Pós-Graduação,China,4.4,WeChat,Não,7.9,7,5
-19,Feminino,Graduação,Netherlands,3.7,TikTok,Não,8.3,8,4
-21,Masculino,Pós-Graduação,New Zealand,4.6,Instagram,Sim,7.6,7,6
-20,Feminino,Graduação,Singapore,5.2,TikTok,Sim,6.9,6,7
-22,Masculino,Pós-Graduação,Malaysia,5.6,WhatsApp,Sim,6.7,6,7
-19,Feminino,Graduação,United Arab Emirates,6.6,Instagram,Sim,6.4,5,8
-21,Masculino,Pós-Graduação,Poland,4.1,Facebook,Não,8.0,7,5
-20,Feminino,Graduação,India,6.9,WhatsApp,Sim,5.9,5,8
-22,Masculino,Pós-Graduação,Canada,4.7,TikTok,Sim,7.5,7,6
-19,Feminino,Graduação,Brazil,6.0,WhatsApp,Sim,6.5,6,7
+19,Feminino,Graduação,Países Baixos,3.7,TikTok,Não,8.3,8,4
+21,Masculino,Pós-Graduação,Nova Zelândia,4.6,Instagram,Sim,7.6,7,6
+20,Feminino,Graduação,Singapura,5.2,TikTok,Sim,6.9,6,7
+22,Masculino,Pós-Graduação,Malásia,5.6,WhatsApp,Sim,6.7,6,7
+19,Feminino,Graduação,Emirados Árabes Unidos,6.6,Instagram,Sim,6.4,5,8
+21,Masculino,Pós-Graduação,Polônia,4.1,Facebook,Não,8.0,7,5
+20,Feminino,Graduação,Índia,6.9,WhatsApp,Sim,5.9,5,8
+22,Masculino,Pós-Graduação,Canadá,4.7,TikTok,Sim,7.5,7,6
+19,Feminino,Graduação,Brasil,6.0,WhatsApp,Sim,6.5,6,7
 21,Masculino,Pós-Graduação,China,4.3,WeChat,Não,8.0,7,5
-20,Feminino,Graduação,Netherlands,3.6,Instagram,Não,8.4,8,4
-22,Masculino,Pós-Graduação,New Zealand,4.5,Facebook,Sim,7.7,7,6
-19,Feminino,Graduação,Singapore,5.3,TikTok,Sim,6.8,6,7
-21,Masculino,Pós-Graduação,Malaysia,5.7,WhatsApp,Sim,6.6,6,7
-20,Feminino,Graduação,United Arab Emirates,6.7,Instagram,Sim,6.3,5,8
-22,Masculino,Pós-Graduação,Poland,4.0,Facebook,Não,8.1,7,5
-19,Feminino,Graduação,India,7.0,WhatsApp,Sim,5.8,5,8
-21,Masculino,Pós-Graduação,Canada,4.6,Instagram,Sim,7.6,7,6
-20,Feminino,Graduação,Brazil,5.9,TikTok,Sim,6.6,6,7
+20,Feminino,Graduação,Países Baixos,3.6,Instagram,Não,8.4,8,4
+22,Masculino,Pós-Graduação,Nova Zelândia,4.5,Facebook,Sim,7.7,7,6
+19,Feminino,Graduação,Singapura,5.3,TikTok,Sim,6.8,6,7
+21,Masculino,Pós-Graduação,Malásia,5.7,WhatsApp,Sim,6.6,6,7
+20,Feminino,Graduação,Emirados Árabes Unidos,6.7,Instagram,Sim,6.3,5,8
+22,Masculino,Pós-Graduação,Polônia,4.0,Facebook,Não,8.1,7,5
+19,Feminino,Graduação,Índia,7.0,WhatsApp,Sim,5.8,5,8
+21,Masculino,Pós-Graduação,Canadá,4.6,Instagram,Sim,7.6,7,6
+20,Feminino,Graduação,Brasil,5.9,TikTok,Sim,6.6,6,7
 22,Masculino,Pós-Graduação,China,4.2,WeChat,Não,8.1,7,5
-19,Feminino,Graduação,Netherlands,3.5,Instagram,Não,8.5,8,4
-21,Masculino,Pós-Graduação,New Zealand,4.4,Facebook,Sim,7.8,7,6
-20,Feminino,Graduação,Singapore,5.4,TikTok,Sim,6.7,6,7
-22,Masculino,Pós-Graduação,Malaysia,5.8,WhatsApp,Sim,6.5,6,7
-19,Feminino,Graduação,United Arab Emirates,6.8,Instagram,Sim,6.2,5,8
-21,Masculino,Pós-Graduação,Poland,3.9,Facebook,Não,8.2,7,5
-20,Feminino,Graduação,India,7.1,WhatsApp,Sim,5.7,5,8
-22,Masculino,Pós-Graduação,Canada,4.5,TikTok,Sim,7.7,7,6
-19,Feminino,Graduação,Brazil,5.8,WhatsApp,Sim,6.7,6,7
+19,Feminino,Graduação,Países Baixos,3.5,Instagram,Não,8.5,8,4
+21,Masculino,Pós-Graduação,Nova Zelândia,4.4,Facebook,Sim,7.8,7,6
+20,Feminino,Graduação,Singapura,5.4,TikTok,Sim,6.7,6,7
+22,Masculino,Pós-Graduação,Malásia,5.8,WhatsApp,Sim,6.5,6,7
+19,Feminino,Graduação,Emirados Árabes Unidos,6.8,Instagram,Sim,6.2,5,8
+21,Masculino,Pós-Graduação,Polônia,3.9,Facebook,Não,8.2,7,5
+20,Feminino,Graduação,Índia,7.1,WhatsApp,Sim,5.7,5,8
+22,Masculino,Pós-Graduação,Canadá,4.5,TikTok,Sim,7.7,7,6
+19,Feminino,Graduação,Brasil,5.8,WhatsApp,Sim,6.7,6,7
 21,Masculino,Pós-Graduação,China,4.1,WeChat,Não,8.2,7,5
-20,Feminino,Graduação,Netherlands,3.4,Instagram,Não,8.6,8,4
-22,Masculino,Pós-Graduação,New Zealand,4.3,Instagram,Sim,7.9,7,6
-19,Feminino,Graduação,Singapore,5.5,TikTok,Sim,6.6,6,7
-21,Masculino,Pós-Graduação,Malaysia,5.9,WhatsApp,Sim,6.4,6,7
-20,Feminino,Graduação,United Arab Emirates,6.9,Instagram,Sim,6.1,5,8
-22,Masculino,Pós-Graduação,Poland,3.8,Facebook,Não,8.3,7,5
-19,Feminino,Graduação,India,7.2,WhatsApp,Sim,5.6,5,8
-21,Masculino,Pós-Graduação,Canada,4.4,Instagram,Sim,7.8,7,6
-20,Feminino,Graduação,Brazil,5.7,TikTok,Sim,6.8,6,7
+20,Feminino,Graduação,Países Baixos,3.4,Instagram,Não,8.6,8,4
+22,Masculino,Pós-Graduação,Nova Zelândia,4.3,Instagram,Sim,7.9,7,6
+19,Feminino,Graduação,Singapura,5.5,TikTok,Sim,6.6,6,7
+21,Masculino,Pós-Graduação,Malásia,5.9,WhatsApp,Sim,6.4,6,7
+20,Feminino,Graduação,Emirados Árabes Unidos,6.9,Instagram,Sim,6.1,5,8
+22,Masculino,Pós-Graduação,Polônia,3.8,Facebook,Não,8.3,7,5
+19,Feminino,Graduação,Índia,7.2,WhatsApp,Sim,5.6,5,8
+21,Masculino,Pós-Graduação,Canadá,4.4,Instagram,Sim,7.8,7,6
+20,Feminino,Graduação,Brasil,5.7,TikTok,Sim,6.8,6,7
 22,Masculino,Pós-Graduação,China,4.0,WeChat,Não,8.3,7,5
-19,Feminino,Graduação,Netherlands,3.3,Instagram,Não,8.7,8,4
-21,Masculino,Pós-Graduação,New Zealand,4.2,Facebook,Sim,8.0,7,6
-20,Feminino,Graduação,Singapore,5.6,TikTok,Sim,6.5,6,7
-22,Masculino,Pós-Graduação,Malaysia,6.0,WhatsApp,Sim,6.3,6,7
-19,Feminino,Graduação,United Arab Emirates,7.0,Instagram,Sim,6.0,5,8
-21,Masculino,Pós-Graduação,Poland,3.7,Facebook,Não,8.4,7,5
-20,Feminino,Graduação,India,7.3,WhatsApp,Sim,5.5,5,8
-22,Masculino,Pós-Graduação,Canada,4.3,TikTok,Sim,7.9,7,6
-19,Feminino,Graduação,Brazil,5.6,WhatsApp,Sim,6.9,6,7
+19,Feminino,Graduação,Países Baixos,3.3,Instagram,Não,8.7,8,4
+21,Masculino,Pós-Graduação,Nova Zelândia,4.2,Facebook,Sim,8.0,7,6
+20,Feminino,Graduação,Singapura,5.6,TikTok,Sim,6.5,6,7
+22,Masculino,Pós-Graduação,Malásia,6.0,WhatsApp,Sim,6.3,6,7
+19,Feminino,Graduação,Emirados Árabes Unidos,7.0,Instagram,Sim,6.0,5,8
+21,Masculino,Pós-Graduação,Polônia,3.7,Facebook,Não,8.4,7,5
+20,Feminino,Graduação,Índia,7.3,WhatsApp,Sim,5.5,5,8
+22,Masculino,Pós-Graduação,Canadá,4.3,TikTok,Sim,7.9,7,6
+19,Feminino,Graduação,Brasil,5.6,WhatsApp,Sim,6.9,6,7
 21,Masculino,Pós-Graduação,China,3.9,WeChat,Não,8.4,7,5
-20,Feminino,Graduação,Netherlands,3.2,Instagram,Não,8.8,8,4
-22,Masculino,Pós-Graduação,New Zealand,4.1,Instagram,Sim,8.1,7,6
-19,Feminino,Graduação,Singapore,5.7,TikTok,Sim,6.4,6,7
-21,Masculino,Pós-Graduação,Malaysia,6.1,WhatsApp,Sim,6.2,6,7
-20,Feminino,Graduação,United Arab Emirates,7.1,Instagram,Sim,5.9,5,8
-22,Masculino,Pós-Graduação,Poland,3.6,Facebook,Não,8.5,7,5
-19,Feminino,Graduação,India,7.4,WhatsApp,Sim,5.4,5,8
-21,Masculino,Pós-Graduação,Canada,4.2,Instagram,Sim,8.0,7,6
-20,Feminino,Graduação,Spain,6.1,Instagram,Sim,7.2,5,7
-23,Masculino,Pós-Graduação,Denmark,3.8,Twitter,Não,7.8,8,4
-19,Feminino,Graduação,Ireland,5.5,TikTok,Sim,6.8,6,8
-22,Masculino,Pós-Graduação,India,7.2,Facebook,Sim,5.9,4,9
-21,Feminino,Graduação,Switzerland,4.2,Instagram,Não,7.5,7,5
-24,Masculino,Pós-Graduação,Turkey,6.8,TikTok,Sim,6.2,5,8
-20,Feminino,Graduação,United States,5.9,Instagram,Sim,6.7,6,7
-22,Masculino,Pós-Graduação,Mexico,6.5,Facebook,Sim,6.1,5,8
-19,Feminino,Graduação,France,4.7,Twitter,Não,7.4,7,5
-23,Masculino,Pós-Graduação,Canada,5.2,Instagram,Sim,7.0,6,6
-21,Feminino,Graduação,United Kingdom,6.3,TikTok,Sim,6.4,5,8
-24,Masculino,Pós-Graduação,Italy,4.9,Facebook,Não,7.3,7,5
-20,Feminino,Graduação,Russia,6.7,Instagram,Sim,6.0,5,8
+20,Feminino,Graduação,Países Baixos,3.2,Instagram,Não,8.8,8,4
+22,Masculino,Pós-Graduação,Nova Zelândia,4.1,Instagram,Sim,8.1,7,6
+19,Feminino,Graduação,Singapura,5.7,TikTok,Sim,6.4,6,7
+21,Masculino,Pós-Graduação,Malásia,6.1,WhatsApp,Sim,6.2,6,7
+20,Feminino,Graduação,Emirados Árabes Unidos,7.1,Instagram,Sim,5.9,5,8
+22,Masculino,Pós-Graduação,Polônia,3.6,Facebook,Não,8.5,7,5
+19,Feminino,Graduação,Índia,7.4,WhatsApp,Sim,5.4,5,8
+21,Masculino,Pós-Graduação,Canadá,4.2,Instagram,Sim,8.0,7,6
+20,Feminino,Graduação,Espanha,6.1,Instagram,Sim,7.2,5,7
+23,Masculino,Pós-Graduação,Dinamarca,3.8,Twitter,Não,7.8,8,4
+19,Feminino,Graduação,Irlanda,5.5,TikTok,Sim,6.8,6,8
+22,Masculino,Pós-Graduação,Índia,7.2,Facebook,Sim,5.9,4,9
+21,Feminino,Graduação,Suíça,4.2,Instagram,Não,7.5,7,5
+24,Masculino,Pós-Graduação,Turquia,6.8,TikTok,Sim,6.2,5,8
+20,Feminino,Graduação,Estados Unidos,5.9,Instagram,Sim,6.7,6,7
+22,Masculino,Pós-Graduação,México,6.5,Facebook,Sim,6.1,5,8
+19,Feminino,Graduação,França,4.7,Twitter,Não,7.4,7,5
+23,Masculino,Pós-Graduação,Canadá,5.2,Instagram,Sim,7.0,6,6
+21,Feminino,Graduação,Reino Unido,6.3,TikTok,Sim,6.4,5,8
+24,Masculino,Pós-Graduação,Itália,4.9,Facebook,Não,7.3,7,5
+20,Feminino,Graduação,Rússia,6.7,Instagram,Sim,6.0,5,8
 22,Masculino,Pós-Graduação,China,5.8,WeChat,Sim,6.5,6,7
-19,Feminino,Graduação,Japan,4.5,Twitter,Não,7.6,8,4
-23,Masculino,Pós-Graduação,Poland,6.4,Facebook,Sim,6.3,5,8
-21,Feminino,Graduação,Finland,4.1,Instagram,Não,7.7,7,5
-24,Masculino,Pós-Graduação,Spain,6.6,TikTok,Sim,6.2,5,8
-20,Feminino,Graduação,Denmark,4.4,Instagram,Não,7.4,7,5
-22,Masculino,Pós-Graduação,Ireland,5.7,Twitter,Sim,6.8,6,7
-19,Feminino,Graduação,India,7.0,Instagram,Sim,5.8,4,9
-23,Masculino,Pós-Graduação,Switzerland,4.3,Facebook,Não,7.5,7,5
-21,Feminino,Graduação,Turkey,6.9,TikTok,Sim,6.1,5,8
-24,Masculino,Pós-Graduação,United States,5.6,Instagram,Sim,6.9,6,7
-20,Feminino,Graduação,Mexico,6.2,Facebook,Sim,6.3,5,8
-21,Masculino,Graduação,France,5.8,Instagram,Sim,6.7,6,7
-23,Feminino,Pós-Graduação,Canada,4.9,TikTok,Não,7.3,7,5
-20,Masculino,Graduação,United Kingdom,6.4,Facebook,Sim,6.2,5,8
-22,Feminino,Pós-Graduação,Italy,5.1,Twitter,Não,7.1,7,5
-19,Masculino,Graduação,Russia,6.7,Instagram,Sim,6.0,4,8
+19,Feminino,Graduação,Japão,4.5,Twitter,Não,7.6,8,4
+23,Masculino,Pós-Graduação,Polônia,6.4,Facebook,Sim,6.3,5,8
+21,Feminino,Graduação,Finlândia,4.1,Instagram,Não,7.7,7,5
+24,Masculino,Pós-Graduação,Espanha,6.6,TikTok,Sim,6.2,5,8
+20,Feminino,Graduação,Dinamarca,4.4,Instagram,Não,7.4,7,5
+22,Masculino,Pós-Graduação,Irlanda,5.7,Twitter,Sim,6.8,6,7
+19,Feminino,Graduação,Índia,7.0,Instagram,Sim,5.8,4,9
+23,Masculino,Pós-Graduação,Suíça,4.3,Facebook,Não,7.5,7,5
+21,Feminino,Graduação,Turquia,6.9,TikTok,Sim,6.1,5,8
+24,Masculino,Pós-Graduação,Estados Unidos,5.6,Instagram,Sim,6.9,6,7
+20,Feminino,Graduação,México,6.2,Facebook,Sim,6.3,5,8
+21,Masculino,Graduação,França,5.8,Instagram,Sim,6.7,6,7
+23,Feminino,Pós-Graduação,Canadá,4.9,TikTok,Não,7.3,7,5
+20,Masculino,Graduação,Reino Unido,6.4,Facebook,Sim,6.2,5,8
+22,Feminino,Pós-Graduação,Itália,5.1,Twitter,Não,7.1,7,5
+19,Masculino,Graduação,Rússia,6.7,Instagram,Sim,6.0,4,8
 24,Feminino,Pós-Graduação,China,5.5,WeChat,Sim,6.8,6,7
-21,Masculino,Graduação,Japan,4.3,Twitter,Não,7.6,8,4
-23,Feminino,Pós-Graduação,Poland,6.2,Instagram,Sim,6.4,5,8
-20,Masculino,Graduação,Finland,4.5,Facebook,Não,7.4,7,5
-22,Feminino,Pós-Graduação,Spain,6.3,TikTok,Sim,6.3,5,8
-19,Masculino,Graduação,Denmark,4.7,Instagram,Não,7.2,7,5
-24,Feminino,Pós-Graduação,Ireland,5.9,Twitter,Sim,6.6,6,7
-21,Masculino,Graduação,India,7.1,Facebook,Sim,5.7,4,9
-23,Feminino,Pós-Graduação,Switzerland,4.4,Instagram,Não,7.4,7,5
-20,Masculino,Graduação,Turkey,6.6,TikTok,Sim,6.2,5,8
-22,Feminino,Pós-Graduação,United States,5.4,Instagram,Sim,6.9,6,7
-19,Masculino,Graduação,Mexico,6.5,Facebook,Sim,6.1,5,8
-24,Feminino,Pós-Graduação,France,4.8,Twitter,Não,7.3,7,5
-21,Masculino,Graduação,Canada,5.7,Instagram,Sim,6.7,6,7
-23,Feminino,Pós-Graduação,United Kingdom,6.1,TikTok,Sim,6.4,5,8
-20,Masculino,Graduação,Italy,4.6,Facebook,Não,7.2,7,5
-22,Feminino,Pós-Graduação,Russia,6.8,Instagram,Sim,5.9,4,9
+21,Masculino,Graduação,Japão,4.3,Twitter,Não,7.6,8,4
+23,Feminino,Pós-Graduação,Polônia,6.2,Instagram,Sim,6.4,5,8
+20,Masculino,Graduação,Finlândia,4.5,Facebook,Não,7.4,7,5
+22,Feminino,Pós-Graduação,Espanha,6.3,TikTok,Sim,6.3,5,8
+19,Masculino,Graduação,Dinamarca,4.7,Instagram,Não,7.2,7,5
+24,Feminino,Pós-Graduação,Irlanda,5.9,Twitter,Sim,6.6,6,7
+21,Masculino,Graduação,Índia,7.1,Facebook,Sim,5.7,4,9
+23,Feminino,Pós-Graduação,Suíça,4.4,Instagram,Não,7.4,7,5
+20,Masculino,Graduação,Turquia,6.6,TikTok,Sim,6.2,5,8
+22,Feminino,Pós-Graduação,Estados Unidos,5.4,Instagram,Sim,6.9,6,7
+19,Masculino,Graduação,México,6.5,Facebook,Sim,6.1,5,8
+24,Feminino,Pós-Graduação,França,4.8,Twitter,Não,7.3,7,5
+21,Masculino,Graduação,Canadá,5.7,Instagram,Sim,6.7,6,7
+23,Feminino,Pós-Graduação,Reino Unido,6.1,TikTok,Sim,6.4,5,8
+20,Masculino,Graduação,Itália,4.6,Facebook,Não,7.2,7,5
+22,Feminino,Pós-Graduação,Rússia,6.8,Instagram,Sim,5.9,4,9
 19,Masculino,Graduação,China,5.6,WeChat,Sim,6.8,6,7
-24,Feminino,Pós-Graduação,Japan,4.2,Twitter,Não,7.5,8,4
-21,Masculino,Graduação,Poland,6.3,TikTok,Sim,6.3,5,8
-23,Feminino,Pós-Graduação,Finland,4.4,Instagram,Não,7.4,7,5
-20,Masculino,Graduação,Spain,6.5,Facebook,Sim,6.2,5,8
-22,Feminino,Pós-Graduação,Denmark,4.6,Twitter,Não,7.3,7,5
-19,Masculino,Graduação,Ireland,5.8,Instagram,Sim,6.6,6,7
-24,Feminino,Pós-Graduação,India,7.0,TikTok,Sim,5.8,4,9
-21,Masculino,Graduação,Switzerland,4.5,Facebook,Não,7.3,7,5
-23,Feminino,Pós-Graduação,Turkey,6.7,Instagram,Sim,6.1,5,8
-20,Masculino,Graduação,United States,5.5,Twitter,Sim,6.8,6,7
-22,Feminino,Pós-Graduação,Mexico,6.4,Facebook,Sim,6.2,5,8
-19,Masculino,Graduação,France,4.7,Instagram,Não,7.2,7,5
-24,Feminino,Pós-Graduação,Canada,5.6,TikTok,Sim,6.7,6,7
-21,Masculino,Graduação,United Kingdom,6.2,Facebook,Sim,6.3,5,8
-23,Feminino,Pós-Graduação,Italy,4.8,Twitter,Não,7.1,7,5
-20,Masculino,Graduação,Russia,6.9,Instagram,Sim,5.9,4,9
+24,Feminino,Pós-Graduação,Japão,4.2,Twitter,Não,7.5,8,4
+21,Masculino,Graduação,Polônia,6.3,TikTok,Sim,6.3,5,8
+23,Feminino,Pós-Graduação,Finlândia,4.4,Instagram,Não,7.4,7,5
+20,Masculino,Graduação,Espanha,6.5,Facebook,Sim,6.2,5,8
+22,Feminino,Pós-Graduação,Dinamarca,4.6,Twitter,Não,7.3,7,5
+19,Masculino,Graduação,Irlanda,5.8,Instagram,Sim,6.6,6,7
+24,Feminino,Pós-Graduação,Índia,7.0,TikTok,Sim,5.8,4,9
+21,Masculino,Graduação,Suíça,4.5,Facebook,Não,7.3,7,5
+23,Feminino,Pós-Graduação,Turquia,6.7,Instagram,Sim,6.1,5,8
+20,Masculino,Graduação,Estados Unidos,5.5,Twitter,Sim,6.8,6,7
+22,Feminino,Pós-Graduação,México,6.4,Facebook,Sim,6.2,5,8
+19,Masculino,Graduação,França,4.7,Instagram,Não,7.2,7,5
+24,Feminino,Pós-Graduação,Canadá,5.6,TikTok,Sim,6.7,6,7
+21,Masculino,Graduação,Reino Unido,6.2,Facebook,Sim,6.3,5,8
+23,Feminino,Pós-Graduação,Itália,4.8,Twitter,Não,7.1,7,5
+20,Masculino,Graduação,Rússia,6.9,Instagram,Sim,5.9,4,9
 22,Feminino,Pós-Graduação,China,5.7,WeChat,Sim,6.7,6,7
-19,Masculino,Graduação,Japan,4.4,Twitter,Não,7.4,8,4
-24,Feminino,Pós-Graduação,Poland,6.1,TikTok,Sim,6.4,5,8
-21,Masculino,Graduação,Finland,4.3,Instagram,Não,7.5,7,5
-23,Feminino,Pós-Graduação,Spain,6.4,Facebook,Sim,6.2,5,8
-20,Masculino,Graduação,Denmark,4.5,Twitter,Não,7.3,7,5
-22,Feminino,Pós-Graduação,Ireland,5.9,Instagram,Sim,6.5,6,7
-19,Masculino,Graduação,India,7.2,TikTok,Sim,5.7,4,9
-24,Feminino,Pós-Graduação,Switzerland,4.6,Facebook,Não,7.2,7,5
-21,Masculino,Graduação,Turkey,6.8,Instagram,Sim,6.0,5,8
-23,Feminino,Pós-Graduação,United States,5.3,Twitter,Sim,6.8,6,7
-22,Masculino,Pós-Graduação,Mexico,6.3,Facebook,Sim,6.2,5,8
-20,Feminino,Graduação,France,4.8,Instagram,Não,7.1,7,5
-23,Masculino,Pós-Graduação,Canada,5.7,TikTok,Sim,6.6,6,7
-21,Feminino,Graduação,United Kingdom,6.2,Twitter,Sim,6.3,5,8
-24,Masculino,Pós-Graduação,Italy,4.7,Facebook,Não,7.2,7,5
-19,Feminino,Graduação,Russia,6.8,Instagram,Sim,5.9,4,9
+19,Masculino,Graduação,Japão,4.4,Twitter,Não,7.4,8,4
+24,Feminino,Pós-Graduação,Polônia,6.1,TikTok,Sim,6.4,5,8
+21,Masculino,Graduação,Finlândia,4.3,Instagram,Não,7.5,7,5
+23,Feminino,Pós-Graduação,Espanha,6.4,Facebook,Sim,6.2,5,8
+20,Masculino,Graduação,Dinamarca,4.5,Twitter,Não,7.3,7,5
+22,Feminino,Pós-Graduação,Irlanda,5.9,Instagram,Sim,6.5,6,7
+19,Masculino,Graduação,Índia,7.2,TikTok,Sim,5.7,4,9
+24,Feminino,Pós-Graduação,Suíça,4.6,Facebook,Não,7.2,7,5
+21,Masculino,Graduação,Turquia,6.8,Instagram,Sim,6.0,5,8
+23,Feminino,Pós-Graduação,Estados Unidos,5.3,Twitter,Sim,6.8,6,7
+22,Masculino,Pós-Graduação,México,6.3,Facebook,Sim,6.2,5,8
+20,Feminino,Graduação,França,4.8,Instagram,Não,7.1,7,5
+23,Masculino,Pós-Graduação,Canadá,5.7,TikTok,Sim,6.6,6,7
+21,Feminino,Graduação,Reino Unido,6.2,Twitter,Sim,6.3,5,8
+24,Masculino,Pós-Graduação,Itália,4.7,Facebook,Não,7.2,7,5
+19,Feminino,Graduação,Rússia,6.8,Instagram,Sim,5.9,4,9
 22,Masculino,Pós-Graduação,China,5.6,WeChat,Sim,6.7,6,7
-20,Feminino,Graduação,Japan,4.3,Twitter,Não,7.5,8,4
-23,Masculino,Pós-Graduação,Poland,6.2,TikTok,Sim,6.3,5,8
-21,Feminino,Graduação,Finland,4.4,Instagram,Não,7.4,7,5
-24,Masculino,Pós-Graduação,Spain,6.5,Facebook,Sim,6.1,5,8
-19,Feminino,Graduação,Denmark,4.6,Twitter,Não,7.3,7,5
-22,Masculino,Pós-Graduação,Ireland,5.8,Instagram,Sim,6.6,6,7
-20,Feminino,Graduação,India,7.1,TikTok,Sim,5.8,4,9
-23,Masculino,Pós-Graduação,Switzerland,4.5,Facebook,Não,7.3,7,5
-21,Feminino,Graduação,Turkey,6.7,Instagram,Sim,6.0,5,8
-24,Masculino,Pós-Graduação,United States,5.4,Twitter,Sim,6.8,6,7
-19,Feminino,Graduação,Mexico,6.4,TikTok,Sim,6.2,5,8
-22,Masculino,Pós-Graduação,France,4.7,Facebook,Não,7.2,7,5
-20,Feminino,Graduação,Canada,5.6,Instagram,Sim,6.7,6,7
-23,Masculino,Pós-Graduação,United Kingdom,6.3,Twitter,Sim,6.2,5,8
-21,Feminino,Graduação,Italy,4.8,TikTok,Não,7.1,7,5
-24,Masculino,Pós-Graduação,Russia,6.9,Instagram,Sim,5.9,4,9
+20,Feminino,Graduação,Japão,4.3,Twitter,Não,7.5,8,4
+23,Masculino,Pós-Graduação,Polônia,6.2,TikTok,Sim,6.3,5,8
+21,Feminino,Graduação,Finlândia,4.4,Instagram,Não,7.4,7,5
+24,Masculino,Pós-Graduação,Espanha,6.5,Facebook,Sim,6.1,5,8
+19,Feminino,Graduação,Dinamarca,4.6,Twitter,Não,7.3,7,5
+22,Masculino,Pós-Graduação,Irlanda,5.8,Instagram,Sim,6.6,6,7
+20,Feminino,Graduação,Índia,7.1,TikTok,Sim,5.8,4,9
+23,Masculino,Pós-Graduação,Suíça,4.5,Facebook,Não,7.3,7,5
+21,Feminino,Graduação,Turquia,6.7,Instagram,Sim,6.0,5,8
+24,Masculino,Pós-Graduação,Estados Unidos,5.4,Twitter,Sim,6.8,6,7
+19,Feminino,Graduação,México,6.4,TikTok,Sim,6.2,5,8
+22,Masculino,Pós-Graduação,França,4.7,Facebook,Não,7.2,7,5
+20,Feminino,Graduação,Canadá,5.6,Instagram,Sim,6.7,6,7
+23,Masculino,Pós-Graduação,Reino Unido,6.3,Twitter,Sim,6.2,5,8
+21,Feminino,Graduação,Itália,4.8,TikTok,Não,7.1,7,5
+24,Masculino,Pós-Graduação,Rússia,6.9,Instagram,Sim,5.9,4,9
 19,Feminino,Graduação,China,5.7,WeChat,Sim,6.7,6,7
-22,Masculino,Pós-Graduação,Japan,4.4,Twitter,Não,7.4,8,4
-20,Feminino,Graduação,Poland,6.1,Facebook,Sim,6.4,5,8
-23,Masculino,Pós-Graduação,Finland,4.3,Instagram,Não,7.5,7,5
-21,Feminino,Graduação,Spain,6.4,TikTok,Sim,6.2,5,8
-24,Masculino,Pós-Graduação,Denmark,4.5,Twitter,Não,7.3,7,5
-19,Feminino,Graduação,Ireland,5.9,Instagram,Sim,6.5,6,7
-22,Masculino,Pós-Graduação,India,7.2,Facebook,Sim,5.7,4,9
-20,Feminino,Graduação,Switzerland,4.6,TikTok,Não,7.2,7,5
-23,Masculino,Pós-Graduação,Turkey,6.8,Instagram,Sim,6.0,5,8
-21,Feminino,Graduação,United States,5.3,Twitter,Sim,6.8,6,7
-24,Masculino,Pós-Graduação,Mexico,6.2,Facebook,Sim,6.3,5,8
-19,Feminino,Graduação,France,4.7,Instagram,Não,7.2,7,5
-22,Masculino,Pós-Graduação,Canada,5.8,TikTok,Sim,6.6,6,7
-20,Feminino,Graduação,United Kingdom,6.1,Twitter,Sim,6.4,5,8
-23,Masculino,Pós-Graduação,Italy,4.8,Facebook,Não,7.1,7,5
-21,Feminino,Graduação,Russia,6.7,Instagram,Sim,6.0,4,9
+22,Masculino,Pós-Graduação,Japão,4.4,Twitter,Não,7.4,8,4
+20,Feminino,Graduação,Polônia,6.1,Facebook,Sim,6.4,5,8
+23,Masculino,Pós-Graduação,Finlândia,4.3,Instagram,Não,7.5,7,5
+21,Feminino,Graduação,Espanha,6.4,TikTok,Sim,6.2,5,8
+24,Masculino,Pós-Graduação,Dinamarca,4.5,Twitter,Não,7.3,7,5
+19,Feminino,Graduação,Irlanda,5.9,Instagram,Sim,6.5,6,7
+22,Masculino,Pós-Graduação,Índia,7.2,Facebook,Sim,5.7,4,9
+20,Feminino,Graduação,Suíça,4.6,TikTok,Não,7.2,7,5
+23,Masculino,Pós-Graduação,Turquia,6.8,Instagram,Sim,6.0,5,8
+21,Feminino,Graduação,Estados Unidos,5.3,Twitter,Sim,6.8,6,7
+24,Masculino,Pós-Graduação,México,6.2,Facebook,Sim,6.3,5,8
+19,Feminino,Graduação,França,4.7,Instagram,Não,7.2,7,5
+22,Masculino,Pós-Graduação,Canadá,5.8,TikTok,Sim,6.6,6,7
+20,Feminino,Graduação,Reino Unido,6.1,Twitter,Sim,6.4,5,8
+23,Masculino,Pós-Graduação,Itália,4.8,Facebook,Não,7.1,7,5
+21,Feminino,Graduação,Rússia,6.7,Instagram,Sim,6.0,4,9
 24,Masculino,Pós-Graduação,China,5.5,WeChat,Sim,6.8,6,7
-19,Feminino,Graduação,Japan,4.2,Twitter,Não,7.5,8,4
-22,Masculino,Pós-Graduação,Poland,6.3,TikTok,Sim,6.2,5,8
-20,Feminino,Graduação,Finland,4.4,Instagram,Não,7.4,7,5
-23,Masculino,Pós-Graduação,Spain,6.5,Facebook,Sim,6.1,5,8
-21,Feminino,Graduação,Denmark,4.6,Twitter,Não,7.3,7,5
-24,Masculino,Pós-Graduação,Ireland,5.9,Instagram,Sim,6.5,6,7
-19,Feminino,Graduação,India,7.0,TikTok,Sim,5.8,4,9
-22,Masculino,Pós-Graduação,Switzerland,4.5,Facebook,Não,7.3,7,5
-20,Feminino,Graduação,Turkey,6.6,Instagram,Sim,6.1,5,8
-23,Masculino,Pós-Graduação,United States,5.5,Twitter,Sim,6.7,6,7
-21,Feminino,Graduação,Mexico,6.3,TikTok,Sim,6.2,5,8
-24,Masculino,Pós-Graduação,France,4.8,Facebook,Não,7.1,7,5
-19,Feminino,Graduação,Canada,5.7,Instagram,Sim,6.6,6,7
-22,Masculino,Pós-Graduação,United Kingdom,6.2,Twitter,Sim,6.3,5,8
-20,Feminino,Graduação,Italy,4.7,TikTok,Não,7.2,7,5
-23,Masculino,Pós-Graduação,Russia,6.8,Instagram,Sim,5.9,4,9
+19,Feminino,Graduação,Japão,4.2,Twitter,Não,7.5,8,4
+22,Masculino,Pós-Graduação,Polônia,6.3,TikTok,Sim,6.2,5,8
+20,Feminino,Graduação,Finlândia,4.4,Instagram,Não,7.4,7,5
+23,Masculino,Pós-Graduação,Espanha,6.5,Facebook,Sim,6.1,5,8
+21,Feminino,Graduação,Dinamarca,4.6,Twitter,Não,7.3,7,5
+24,Masculino,Pós-Graduação,Irlanda,5.9,Instagram,Sim,6.5,6,7
+19,Feminino,Graduação,Índia,7.0,TikTok,Sim,5.8,4,9
+22,Masculino,Pós-Graduação,Suíça,4.5,Facebook,Não,7.3,7,5
+20,Feminino,Graduação,Turquia,6.6,Instagram,Sim,6.1,5,8
+23,Masculino,Pós-Graduação,Estados Unidos,5.5,Twitter,Sim,6.7,6,7
+21,Feminino,Graduação,México,6.3,TikTok,Sim,6.2,5,8
+24,Masculino,Pós-Graduação,França,4.8,Facebook,Não,7.1,7,5
+19,Feminino,Graduação,Canadá,5.7,Instagram,Sim,6.6,6,7
+22,Masculino,Pós-Graduação,Reino Unido,6.2,Twitter,Sim,6.3,5,8
+20,Feminino,Graduação,Itália,4.7,TikTok,Não,7.2,7,5
+23,Masculino,Pós-Graduação,Rússia,6.8,Instagram,Sim,5.9,4,9
 21,Feminino,Graduação,China,5.6,WeChat,Sim,6.7,6,7
-24,Masculino,Pós-Graduação,Japan,4.3,Twitter,Não,7.5,8,4
-19,Feminino,Graduação,Poland,6.2,Facebook,Sim,6.3,5,8
+24,Masculino,Pós-Graduação,Japão,4.3,Twitter,Não,7.5,8,4
+19,Feminino,Graduação,Polônia,6.2,Facebook,Sim,6.3,5,8
