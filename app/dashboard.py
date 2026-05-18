@@ -3,7 +3,11 @@ import streamlit as st
 import plotly.express as px
 import numpy as np
 
-df_tratado = pd.read_csv('../data/base_tratada.csv')
+# Uso do VsCode
+# df_tratado = pd.read_csv('../data/base_tratada.csv')
+
+# Uso do Streamlit Cloud
+df_tratado = pd.read_csv('data/base_tratada.csv')
 
 st.set_page_config(layout='wide')
 
