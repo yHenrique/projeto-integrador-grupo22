@@ -57,3 +57,13 @@ Ideia inicial do dashboard:
 - Identificar possíveis indícios do uso excessivo que possam estar relacionados a impactos negativos na rotina dos estudantes.
 - Identificar os países que apresentam maior média de uso diário.
 - Verificar a possibilidade de uma tendência de aumento no uso de redes sociais dados determinados perfis de estudantes.
+
+\
+Conclusões obtidas a partir das análises dos gráficos:
+- Adolescentes de 18 anos tendem a passar mais tempo nas redes sociais, em principal, do gênero feminino, enquanto que, no geral, aqueles que têm 23 anos são os que menos as utilizam.
+- Segundo os adolescentes entrevistados, usar as redes sociais até 4 horas por dia não impactam negativamente em seu desempenho acadêmico.
+- Apenas metade dos entrevistados dormem a quantidade mínima de horas recomendadas por dia.
+- Considerando a pontuação da saúde mental dos estudantes acima de 6 como 'bom' e abaixo de 6 como 'ruim', é possível inferir que quase 30% dos entrevistados vivem com baixa saúde mental.
+- Quase 70% dos entrevistados afirmam estar viciados nas redes sociais.
+- Os Estados Unidos e os Emirados Árabes Unidos são os 2 países com a maior média de uso entre os perfis analisados, com uma média aproximada de 7 horas por dia, enquanto que a Suíça é o país com a menor média diária.
+- O Instagram e o TikTok são as plataformas que apresentam um maior equilíbrio no seu uso dado os níveis de estudantes analisados. O Linkedin, plataforma que conecta profissionais do mundo todo, está amplamente vinculado com estudantes mais experientes que buscam por oportunidades no mercado de trabalho. Vale mencionar que plataformas como o KakaoTalk, o LINE, o VKontakte e o WeChat têm funcionalidades que vão além do compartilhamento de conteúdo.
