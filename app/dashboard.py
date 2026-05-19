@@ -32,7 +32,7 @@ with analise1_col2:
     media_uso_diario_por_idade = df_tratado.groupby(['Idade', 'Gênero'])['Média_Uso_Diário'].mean().reset_index()
     st.bar_chart(media_uso_diario_por_idade, x='Idade', y='Média_Uso_Diário', color='Gênero', y_label='Média de Uso Diário', stack=False)
     st.write('Conclusão: Adolescentes de 18 anos tendem a passar mais tempo nas redes sociais, em principal, do gênero feminino, ' \
-    'enquanto que, no geral, aqueles que têm 23 anos são os que menos a utilizam.')
+    'enquanto que, no geral, aqueles que têm 23 anos são os que menos as utilizam.')
 
 st.space('small')
 st.header('Analisando a relação entre o tempo de uso nas redes sociais e o desempenho escolar dos estudantes:')
@@ -44,7 +44,7 @@ with analise2_col2.container(border=True):
     st.space(size='medium')
     media_uso_diario_afetar_desempenho = df_tratado.groupby(['Afeta_Desempenho_Acadêmico', 'Nível_Acadêmico'])['Média_Uso_Diário'].mean().reset_index()
     st.bar_chart(media_uso_diario_afetar_desempenho, x='Afeta_Desempenho_Acadêmico', y='Média_Uso_Diário', color='Nível_Acadêmico', x_label='Afeta o Desempenho Acadêmico', y_label='Média de Uso Diário', stack=False)
-    st.write('Conclusão: Segundo os adolescentes entrevistados, usar as redes sociais até 4 horas por dia não afetam seu desempenho acadêmico.')
+    st.write('Conclusão: Segundo os adolescentes entrevistados, usar as redes sociais até 4 horas por dia não impactam negativamente em seu desempenho acadêmico.')
 
 st.space('small')
 st.header('Identificando possíveis indícios do uso excessivo que possam estar relacionados a impactos negativos na rotina dos estudantes:')
