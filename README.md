@@ -67,3 +67,6 @@ Conclusões obtidas a partir das análises dos gráficos:
 - Quase 70% dos entrevistados afirmam estar viciados nas redes sociais.
 - Os Estados Unidos e os Emirados Árabes Unidos são os 2 países com a maior média de uso entre os perfis analisados, com uma média aproximada de 7 horas por dia, enquanto que a Suíça é o país com a menor média diária.
 - O Instagram e o TikTok são as plataformas que apresentam um maior equilíbrio no seu uso dado os níveis de estudantes analisados. O Linkedin, plataforma que conecta profissionais do mundo todo, está amplamente vinculado com estudantes mais experientes que buscam por oportunidades no mercado de trabalho. Vale mencionar que plataformas como o KakaoTalk, o LINE, o VKontakte e o WeChat têm funcionalidades que vão além do compartilhamento de conteúdo.
+
+\
+Link do Dashboard: https://projeto-integrador-grupo22.streamlit.app/
